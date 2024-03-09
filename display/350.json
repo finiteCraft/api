@@ -1,1 +1,1 @@
-{"Toad": {"crafted_by": [["Cactus", "Frog"]], "depth": 4}, "Suez": {"crafted_by": [["Spice", "Canal"]], "depth": 6}, "Sumo": {"crafted_by": [["Hillbilly", "Japan"]], "depth": 8}}
+{"Toad": {"crafted_by": [["Cactus", "Frog"], ["Dandelion", "Frog"], ["Snake", "Mushroom"]], "depth": 4}, "Suez": {"crafted_by": [["Spice", "Canal"]], "depth": 6}, "Sumo": {"crafted_by": [["Hillbilly", "Japan"]], "depth": 8}}
