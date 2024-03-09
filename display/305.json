@@ -1,1 +1,1 @@
-{"Fuel": {"crafted_by": [["Plant", "Jet"], ["Car", "Fossil"], ["Gas", "Moon Dew"]], "depth": 4}, "Glow": {"crafted_by": [["Spice", "Bioluminescence"]], "depth": 6}, "Herb": {"crafted_by": [["Spice", "Terrarium"]], "depth": 6}}
+{"Fuel": {"crafted_by": [["Car", "Fossil"]], "depth": 4}, "Glow": {"crafted_by": [["Spice", "Bioluminescence"]], "depth": 6}, "Herb": {"crafted_by": [["Spice", "Terrarium"]], "depth": 6}, "Hemp": {"crafted_by": [["Hawaii", "Mudweed"]], "depth": 4}}
