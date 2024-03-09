@@ -1,1 +1,1 @@
-{"Glasses": {"crafted_by": [["Glass", "Whale"], ["Glass", "Fireworks"], ["Smell", "Glasser"]], "depth": 4}, "Glasser": {"crafted_by": [["Glass", "Surfer"]], "depth": 4}}
+{"Glasser": {"crafted_by": [["Glass", "Surfer"]], "depth": 4}, "Kite": {"discovered": false, "emoji": "\ud83e\ude81", "depth": 3}}

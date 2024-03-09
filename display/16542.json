@@ -1,1 +1,1 @@
-{"Pollen": {"crafted_by": [["Plant", "Dust"], ["Bee", "Dust"], ["Flower", "Rain"], ["Flower", "Dust"], ["Smell", "Dust Bee"]], "depth": 2}}
+{"Pollen": {"crafted_by": [["Plant", "Dust"], ["Bee", "Dust"], ["Flower", "Rain"], ["Flower", "Dust"], ["Smell", "Dust Bee"]], "depth": 2}, "Dust Cloud": {"discovered": false, "emoji": "\ud83c\udf2b\ufe0f", "depth": 4}}

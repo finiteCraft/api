@@ -1,1 +1,1 @@
-{"Food": {"crafted_by": [["Smell", "Appetite"], ["Smell", "Yum"]], "depth": 6}, "Halo": {"crafted_by": [["Sun", "Angel"]], "depth": 4}}
+{"Halo": {"crafted_by": [["Sun", "Angel"]], "depth": 4}, "Dust Bowl": {"discovered": false, "emoji": "\ud83c\udf2a\ufe0f", "depth": 3}}

@@ -1,1 +1,1 @@
-{"Trash": {"crafted_by": [["Smell", "Junk"], ["Smell", "Litter"]], "depth": 5}, "Sword": {"crafted_by": [["Obsidian", "Mist"], ["Obsidian", "Mars"], ["Obsidian", "Sandalwood"], ["Smell", "Blade"]], "depth": 4}, "Tramp": {"crafted_by": [["Smell", "Hobo"]], "depth": 5}}
+{"Tramp": {"crafted_by": [["Smell", "Hobo"]], "depth": 5}, "Drunken Dragon": {"discovered": false, "emoji": "\ud83d\udc09", "depth": 4}}

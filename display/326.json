@@ -1,1 +1,1 @@
-{"Moat": {"crafted_by": [["Puddle", "Sandcastle"]], "depth": 4}, "Luna": {"crafted_by": [["Island", "Moon"], ["Plantea", "Moon"]], "depth": 4}, "Moai": {"crafted_by": [["Hawaii", "Stone"], ["Hawaii", "Sphinx"], ["Sandtitanic", "Easter Island"], ["Sandtitanic", "Moai"]], "depth": 4}}
+{"Moat": {"crafted_by": [["Puddle", "Sandcastle"]], "depth": 4}, "Field": {"discovered": false, "emoji": "\ud83c\udf3e", "depth": 4}}

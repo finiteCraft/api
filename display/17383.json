@@ -1,1 +1,1 @@
-{"Turtle": {"crafted_by": [["Sea", "Frog"], ["Frog", "Boulder"], ["Frog", "Ocean"], ["Boulder", "Mangrove"], ["Volcano", "Mangrove"]], "depth": 4}}
+{"Turtle": {"crafted_by": [["Sea", "Frog"], ["Frog", "Boulder"], ["Frog", "Ocean"], ["Boulder", "Mangrove"], ["Volcano", "Mangrove"]], "depth": 4}, "Fireball": {"discovered": false, "emoji": "\ud83d\udd25", "depth": 4}}

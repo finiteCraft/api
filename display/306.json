@@ -1,1 +1,1 @@
-{"Gold": {"crafted_by": [["Smell", "Dwarf"], ["Smell", "Ore"]], "depth": 5}, "High": {"crafted_by": [["Smoke", "Weed"], ["Smell", "Hashish"], ["Smell", "Stoned"], ["Smell", "Pot Brownie"]], "depth": 4}}
+{"Gold": {"crafted_by": [["Smell", "Dwarf"], ["Smell", "Ore"]], "depth": 5}, "Window": {"discovered": false, "emoji": "\ud83e\ude9f", "depth": 4}, "High": {"crafted_by": [["Smoke", "Weed"], ["Smell", "Hashish"], ["Smell", "Stoned"], ["Smell", "Pot Brownie"]], "depth": 4}, "Cigarette": {"discovered": false, "emoji": "\ud83d\udeac", "depth": 4}}

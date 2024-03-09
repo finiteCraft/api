@@ -1,1 +1,1 @@
-{"Poison": {"crafted_by": [["Mushroom", "Bee"], ["Mushroom", "Honey"], ["Wine", "Perfume"], ["Smell", "Pufferfish"]], "depth": 4}}
+{"Poison": {"crafted_by": [["Mushroom", "Bee"], ["Mushroom", "Honey"], ["Wine", "Perfume"], ["Smell", "Pufferfish"]], "depth": 4}, "Beacon": {"discovered": false, "emoji": "\ud83d\udd26", "depth": 4}}

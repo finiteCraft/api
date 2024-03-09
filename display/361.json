@@ -1,1 +1,1 @@
-{"Worm": {"crafted_by": [["Snake", "Car"]], "depth": 4}, "Wood": {"crafted_by": [["Dust", "Tree"], ["Tornado", "Tree"], ["Engine", "Tree"], ["Avalanche", "Tree"], ["Statue", "Forest"], ["Viking", "Tree"], ["Tractor", "Tree"], ["Smell", "Lumberjack"], ["Smell", "Log"], ["Smell", "Carpenter"], ["Sandtitanic", "Lumberjack"], ["Smell", "Timber"], ["Sandtitanic", "Driftwood"]], "depth": 3}}
+{"Worm": {"crafted_by": [["Snake", "Car"]], "depth": 4}, "Bomb": {"discovered": false, "emoji": "\ud83d\udca3", "depth": 6}}

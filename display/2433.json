@@ -1,1 +1,1 @@
-{"Smurf": {"crafted_by": [["Mushroom", "Mountain Range"], ["Smell", "Smurfy"]], "depth": 4}, "Tibet": {"crafted_by": [["Himalayas", "Island"], ["Himalayas", "Land"], ["Mountain Range", "Buddha"]], "depth": 4}, "Snore": {"crafted_by": [["Smell", "Sleep"]], "depth": 6}}
+{"Tibet": {"crafted_by": [["Himalayas", "Island"], ["Himalayas", "Land"], ["Mountain Range", "Buddha"]], "depth": 4}, "Dryad": {"discovered": false, "emoji": "\ud83c\udf33", "depth": 4}, "Snore": {"crafted_by": [["Smell", "Sleep"]], "depth": 6}, "Ophiuchus": {"discovered": false, "emoji": "\u26ce", "depth": 4}}

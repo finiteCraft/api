@@ -1,1 +1,1 @@
-{"Boxer": {"crafted_by": [["Smell", "Fighter"]], "depth": 5}, "Bread": {"crafted_by": [["Seed", "Sandwich"], ["Seed", "Steamroller"], ["Sandwich", "Dust Bowl"], ["Smell", "Flour"], ["Sandtitanic", "Flour"]], "depth": 4}}
+{"Bread": {"crafted_by": [["Seed", "Sandwich"], ["Seed", "Steamroller"], ["Sandwich", "Dust Bowl"], ["Smell", "Flour"], ["Sandtitanic", "Flour"]], "depth": 4}, "Europe": {"discovered": false, "emoji": "\ud83c\uddea\ud83c\uddfa", "depth": 4}}

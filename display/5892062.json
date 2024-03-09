@@ -1,1 +1,1 @@
-{"Stoneware": {"crafted_by": [["Teapot", "Boulder"], ["Teapot", "Rock"], ["Teacup", "Boulder"], ["Teacup", "Rock"], ["Teacup", "Stone"]], "depth": 4}, "Stonewall": {"crafted_by": [["Rock", "Tea Party"]], "depth": 4}}
+{"Stonewall": {"crafted_by": [["Rock", "Tea Party"]], "depth": 4}, "Fishing Pole": {"discovered": false, "emoji": "\ud83c\udfa3", "depth": 4}}
