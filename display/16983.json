@@ -1,1 +1,1 @@
-{"Rubble": {"crafted_by": [["Stone", "Destruction"], ["Explosion", "Brick"]], "depth": 4}, "Rubber": {"crafted_by": [["Tree", "Tire"], ["Amber", "Tire"]], "depth": 5}}
+{"Rubble": {"crafted_by": [["Stone", "Destruction"], ["Destruction", "Brick"]], "depth": 4}, "Rubber": {"crafted_by": [["Tree", "Tire"], ["Amber", "Tire"]], "depth": 5}}

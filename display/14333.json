@@ -1,1 +1,1 @@
-{"Coffee": {"crafted_by": [["Teapot", "Cough"]], "depth": 4}, "Bullet": {"crafted_by": [["Glass", "Train"]], "depth": 4}}
+{"Coffee": {"crafted_by": [["Teapot", "Cough"], ["Smell", "Cup"], ["Smell", "Coughing"], ["Smell", "Grinder"]], "depth": 4}, "Bullet": {"crafted_by": [["Glass", "Train"]], "depth": 4}}
