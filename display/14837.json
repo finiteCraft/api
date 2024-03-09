@@ -1,1 +1,1 @@
-{"Geyser": {"crafted_by": [["Eruption", "Steam"]], "depth": 3}, "Geysir": {"crafted_by": [["Eruption", "Fjord"], ["Steam", "Stone"]], "depth": 3}}
+{"Geyser": {"crafted_by": [["Eruption", "Steam"], ["Geysir", "Genie"], ["Geysir", "Tea"], ["Geysir", "Fairy"], ["Geysir", "Matcha"], ["Geysir", "Sandalwood"]], "depth": 3}, "Geysir": {"crafted_by": [["Eruption", "Fjord"], ["Steam", "Stone"], ["Geysir", "Geyser"]], "depth": 3}}
