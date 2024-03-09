@@ -1,1 +1,1 @@
-{"Amphibious Car": {"crafted_by": [["Car", "Submarine"]], "depth": 4}}
+{"Amphibious Car": {"crafted_by": [["Car", "Submarine"], ["Sandtitanic", "Amphibious Car"]], "depth": 4}}
