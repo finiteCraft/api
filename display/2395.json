@@ -1,1 +1,1 @@
-{"River": {"crafted_by": [["Water", "Tree"], ["Oasis", "Steamboat"], ["Steamboat", "Desert"]], "depth": 3}, "Scone": {"crafted_by": [["Matcha", "Sandwich"], ["Stone", "Sandwich"], ["Lagoon", "Mushroom Scone"], ["Lagoon", "Scone"]], "depth": 4}}
+{"River": {"crafted_by": [["Water", "Tree"], ["Oasis", "Steamboat"], ["Steamboat", "Desert"]], "depth": 3}, "Scone": {"crafted_by": [["Sandwich", "Matcha"], ["Sandwich", "Stone"]], "depth": 4}}
