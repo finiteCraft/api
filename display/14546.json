@@ -1,1 +1,1 @@
-{"Farmer": {"crafted_by": [["Soil", "Viking"], ["Farmer", "Quicksand"], ["Bulldozer", "Crop Duster"], ["Plow", "Jonah"], ["Hobbit", "Tractor"], ["Cigar", "Tractor"], ["Plow", "Newspaper"], ["Dusty", "Tractor"], ["Hillbilly", "Soil"], ["Hillbilly", "Scarecrow"]], "depth": 4}}
+{"Farmer": {"crafted_by": [["Viking", "Soil"]], "depth": 4}}
