@@ -1,1 +1,1 @@
-{"Soda": {"crafted_by": [["Fountain", "Soup"]], "depth": 5}}
+{"Sopa": {"crafted_by": [["Party", "Soup"]], "depth": 5}, "Snow": {"crafted_by": [["Rain", "Himalayas"], ["Glacier", "Dandelion"], ["Fountain", "Snowman"], ["Karma", "Ice"], ["Teacup Storm", "Ice Flower"], ["Teacup Storm", "Ice Snake"], ["Sneezing", "Avalanche"]], "depth": 4}}

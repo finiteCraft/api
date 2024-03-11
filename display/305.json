@@ -1,1 +1,1 @@
-{"Glue": {"crafted_by": [["Peanut Butter", "Resin"]], "depth": 5}, "Candle": {"discovered": false, "emoji": "\ud83d\udd6f\ufe0f", "depth": 5}, "Hell": {"crafted_by": [["Karma", "Devil"]], "depth": 5}, "Hawaii": {"discovered": false, "emoji": "\ud83c\udf3a", "depth": 3}, "Hemp": {"crafted_by": [["Hawaii", "Mudweed"]], "depth": 4}, "Treasure": {"discovered": false, "emoji": "\ud83d\udc8e", "depth": 5}}
+{"Hell": {"crafted_by": [["Karma", "Devil"]], "depth": 5}, "Hawaii": {"discovered": false, "emoji": "\ud83c\udf3a", "depth": 3}}

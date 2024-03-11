@@ -1,1 +1,1 @@
-{"Bog": {"crafted_by": [["Swamp", "Swamp"], ["Swamp", "Ghost"], ["Swamp", "Storm"], ["Forest", "Swamp"]], "depth": 4}, "Eel": {"crafted_by": [["Fish", "Snake"]], "depth": 4}, "Cod": {"crafted_by": [["Fish", "Cough"]], "depth": 4}}
+{"Bog": {"crafted_by": [["Swamp", "Swamp"], ["Swamp", "Ghost"], ["Swamp", "Storm"], ["Forest", "Swamp"]], "depth": 4}, "Cod": {"crafted_by": [["Fish", "Cough"]], "depth": 4}, "Cow": {"crafted_by": [["Fountain", "Beefish"], ["Fountain", "Salt Lick"], ["Kali", "Salt Lick"]], "depth": 5}}
