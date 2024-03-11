@@ -1,1 +1,1 @@
-{"Earth": {"crafted_by": [["Venus", "Continent"]], "depth": 0}, "Glacier": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}, "Cough": {"crafted_by": [["Ash", "Pollen"]], "depth": 3}, "Lei": {"discovered": false, "emoji": "\ud83c\udf3a", "depth": 4}}
+{"Earth": {"crafted_by": [["Venus", "Continent"], ["Antarctica", "Pangaea"], ["Antarctica", "Planet"]], "depth": 0}, "Glacier": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}}

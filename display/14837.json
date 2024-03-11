@@ -1,1 +1,1 @@
-{"Geyser": {"crafted_by": [["Matcha", "Geysir"]], "depth": 4}, "Spongebob": {"discovered": false, "emoji": "\ud83c\udf4d", "depth": 4}, "Geysir": {"crafted_by": [["Fjord", "Eruption"]], "depth": 3}, "Mudslide": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 3}}
+{"Geyser": {"crafted_by": [["Matcha", "Geysir"], ["Geysir", "Sandalwood"], ["Peanut Butter", "Old Faithful"], ["Tea Surfer", "Old Faithful"]], "depth": 4}, "Drunk": {"discovered": false, "emoji": "\ud83c\udf7a", "depth": 5}}

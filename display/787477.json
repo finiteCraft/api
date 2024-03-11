@@ -1,1 +1,1 @@
-{"Mountain": {"crafted_by": [["Earth", "Earth"], ["Volcano", "Volcano"], ["Mountain Range", "Mountain Range"], ["Rock", "Boulder"]], "depth": 1}, "Volcano": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 1}}
+{"Mountain": {"crafted_by": [["Earth", "Earth"], ["Volcano", "Volcano"], ["Mountain Range", "Mountain Range"], ["Rock", "Boulder"], ["Pyramid", "Himalayas"], ["Pencil", "Himalayas"], ["Forest", "Boulder"], ["Boulder", "Boulder"], ["Boulder", "Nothing"]], "depth": 1}, "Meteorite": {"discovered": false, "emoji": "\ud83d\udcab", "depth": 5}}
