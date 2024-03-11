@@ -1,1 +1,1 @@
-{"Shatter": {"crafted_by": [["Glass", "Disaster"], ["Glass", "Earthquake"], ["Glass", "Hurricane"], ["Glass", "Tornado"], ["Glass", "Cough"]], "depth": 4}}
+{"Shatter": {"crafted_by": [["Disaster", "Glass"], ["Cough", "Glass"]], "depth": 4}, "Mudwich": {"discovered": false, "emoji": "\ud83c\udf5e", "depth": 4}}

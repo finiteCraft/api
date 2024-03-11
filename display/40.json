@@ -1,1 +1,1 @@
-{"Ash": {"crafted_by": [["Volcano", "Dust"], ["Forest", "Phoenix"], ["Nothing", "Phoenix"]], "depth": 2}, "Rock": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 3}}
+{"Art": {"crafted_by": [["Pencil", "Statue"], ["Nothing", "Statue"]], "depth": 4}, "Green Tea": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 4}, "Ash": {"crafted_by": [["Volcano", "Dust"], ["Forest", "Phoenix"], ["Nothing", "Phoenix"], ["Phoenix", "Glass"], ["David", "Eyjafjallaj\u00f6kull"]], "depth": 2}, "Rock": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 3}}

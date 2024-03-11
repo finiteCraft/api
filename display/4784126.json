@@ -1,1 +1,1 @@
-{"Alligator": {"crafted_by": [["Disaster", "Swamp"]], "depth": 4}, "Lotus Flower": {"discovered": false, "emoji": "\ud83c\udf3a", "depth": 4}}
+{"Alligator": {"crafted_by": [["Disaster", "Swamp"], ["Swamp", "Cough"]], "depth": 4}, "Chocolate": {"discovered": false, "emoji": "\ud83c\udf6b", "depth": 5}}
