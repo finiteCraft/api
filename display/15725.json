@@ -1,1 +1,1 @@
-{"Matcha": {"crafted_by": [["Tea", "Ash"], ["Car", "Matcha"], ["Incense", "Matcha"], ["Nothing", "Matcha"], ["Matcha", "Matcha"], ["Matcha", "Fireworks"], ["Matcha", "Fire"], ["Matcha", "Engine"]], "depth": 3}}
+{"Matcha": {"crafted_by": [["Ash", "Tea"], ["Matcha", "Matcha"], ["Matcha", "Nothing"]], "depth": 3}, "Tea Ceremony": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 4}}

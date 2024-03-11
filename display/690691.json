@@ -1,1 +1,1 @@
-{"Aquarium": {"crafted_by": [["Submarine", "Glass"], ["Glass", "Atlantis"], ["Glass", "Lagoon"], ["Glass", "Fish"], ["Glass", "Coral"], ["Sandtitanic", "Fishbowl"]], "depth": 4}}
+{"Aquarium": {"crafted_by": [["Fish", "Glass"], ["Coral", "Glass"]], "depth": 4}, "Sunflower": {"discovered": false, "emoji": "\ud83c\udf3b", "depth": 4}}

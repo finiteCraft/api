@@ -1,1 +1,1 @@
-{"Japan": {"crafted_by": [["Matcha", "Mountain Range"], ["Matcha", "Sushi"], ["Island", "Sushi"], ["Island", "Buddha"], ["Continent", "Sushi"], ["Land", "Sushi"]], "depth": 4}}
+{"Japan": {"crafted_by": [["Matcha", "Sushi"], ["Sushi", "Continent"]], "depth": 4}, "Volcano": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 1}}

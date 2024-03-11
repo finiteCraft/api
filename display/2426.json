@@ -1,1 +1,1 @@
-{"Snake": {"crafted_by": [["Sand", "Incense"]], "depth": 3}, "Pine": {"discovered": false, "emoji": "\ud83c\udf32", "depth": 3}}
+{"Snake": {"crafted_by": [["Sand", "Incense"], ["Matcha", "Snake"], ["Sushi", "Snake"]], "depth": 3}, "Bottle": {"discovered": false, "emoji": "\ud83c\udf7e", "depth": 4}}

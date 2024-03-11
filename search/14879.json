@@ -1,1 +1,1 @@
-{"Forest": {"crafted_by": [["Plant", "Mountain Range"], ["Plant", "Tree"], ["Mountain Range", "Tree"], ["Mountain", "Tree"], ["Tsunami", "Tree"], ["Tree", "Tree"], ["Tree", "Earth"], ["Sandbox", "Tree"], ["Pine", "Tumbleweed"], ["Nothing", "Tree"], ["Flower", "Tree"], ["Rain", "Tree"], ["Continent", "Tree"], ["Plantea", "Tree"], ["Land", "Tree"], ["Smell", "Trees"]], "depth": 3}}
+{"Forest": {"crafted_by": [["Tree", "Tree"], ["Tree", "Tsunami"], ["Tree", "Mountain Range"], ["Tumbleweed", "Pine"]], "depth": 3}}

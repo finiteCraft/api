@@ -1,1 +1,1 @@
-{"Disaster": {"crafted_by": [["Tsunami", "Avalanche"], ["Tsunami", "Hurricane"], ["Landslide", "Avalanche"], ["Mudslide", "Tsunami"], ["Smirnoff", "Space Shuttle"]], "depth": 3}, "Riddle": {"discovered": false, "emoji": "\ud83e\udde9", "depth": 4}}
+{"Disaster": {"crafted_by": [["Tsunami", "Hurricane"]], "depth": 3}, "Mountain": {"discovered": false, "emoji": "\ud83c\udfd4\ufe0f", "depth": 1}}

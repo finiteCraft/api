@@ -1,1 +1,1 @@
-{"Sandboard": {"crafted_by": [["Surfboard", "Sand Dunes"], ["Surfboard", "Sandstorm"], ["Surfboard", "Dust Storm"], ["Surfboard", "Desert"], ["Sandtitanic", "Snakeboard"]], "depth": 4}, "Food": {"discovered": false, "emoji": "\ud83c\udf55", "depth": 6}}
+{"Sandboard": {"crafted_by": [["Desert", "Surfboard"], ["Sandstorm", "Surfboard"]], "depth": 4}, "Fisherman": {"discovered": false, "emoji": "\ud83c\udfa3", "depth": 4}}

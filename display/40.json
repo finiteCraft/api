@@ -1,1 +1,1 @@
-{"Bee": {"crafted_by": [["Tree", "Pollen"], ["Island", "Pollen"], ["Sandwich", "Honey"], ["Venus", "Honey"], ["Hay Fever", "Honey"], ["Angel", "Honey"]], "depth": 3}, "Pottery": {"discovered": false, "emoji": "\ud83c\udffa", "depth": 4}}
+{"Ash": {"crafted_by": [["Volcano", "Dust"]], "depth": 2}, "Rock": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 3}}
