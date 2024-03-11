@@ -1,1 +1,1 @@
-{"Cologne": {"crafted_by": [["Iceberg", "Perfume"], ["Sandalwood", "Cough"], ["Sandalwood", "Marsh"], ["Sandalwood", "Snow"], ["Mountain Range", "Perfume"]], "depth": 4}, "Map": {"discovered": false, "emoji": "\ud83d\uddfa\ufe0f", "depth": 4}}
+{"Cologne": {"crafted_by": [["Mountain Range", "Perfume"], ["Perfume", "Iceberg"], ["Perfume", "Earthquake"], ["Snow", "Sandalwood"], ["Cough", "Sandalwood"]], "depth": 4}, "Nile": {"discovered": false, "emoji": "\ud83d\udc0a", "depth": 4}}

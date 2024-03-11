@@ -1,1 +1,1 @@
-{"Sand Dragon": {"crafted_by": [["Sandcastle", "Dragon"], ["Sandbox", "Dragon"], ["Sandstorm", "Dragon"]], "depth": 4}, "Cobra": {"discovered": false, "emoji": "\ud83d\udc0d", "depth": 4}}
+{"Sand Dragon": {"crafted_by": [["Dragon", "Sandstorm"], ["Dragon", "Sandbox"], ["Dragon", "Sandcastle"]], "depth": 4}, "Boulder": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 3}}

@@ -1,1 +1,1 @@
-{"Snowboarding": {"crafted_by": [["Surfing", "Himalayas"], ["Tea Surfer", "Snowboarding"], ["Kali", "Snowboarding"], ["Ouroboros", "Snowboarding"], ["Green Tea", "Snowboarding"]], "depth": 4}, "Odin": {"discovered": false, "emoji": "\ud83d\udd2e", "depth": 4}}
+{"Snowboarding": {"crafted_by": [["Snow", "Surfing"], ["Himalayas", "Surfing"], ["Blizzard", "Surfing"], ["Snowstorm", "Surfing"]], "depth": 4}, "Crush": {"discovered": false, "emoji": "\ud83d\udc98", "depth": 4}}

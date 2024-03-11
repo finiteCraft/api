@@ -1,1 +1,1 @@
-{"Party": {"crafted_by": [["Fireworks", "Beach"], ["Fireworks", "Wine"], ["Steamboat", "Wine"], ["Troll", "Tea"]], "depth": 4}, "Eclipse": {"discovered": false, "emoji": "\ud83c\udf11", "depth": 4}}
+{"Party": {"crafted_by": [["Beach", "Fireworks"], ["Wine", "Steamboat"], ["Wine", "Fireworks"], ["Wine", "Island"]], "depth": 4}, "Loch Ness Monster": {"discovered": false, "emoji": "\ud83d\udc0a", "depth": 4}}

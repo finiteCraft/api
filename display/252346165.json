@@ -1,1 +1,1 @@
-{"Ice Fishing": {"crafted_by": [["Snowstorm", "Fish"], ["Snowmobile", "Fish"], ["Smirnoff", "Ice Fishing"]], "depth": 4}, "Snowflake": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}}
+{"Ice Fishing": {"crafted_by": [["Fish", "Blizzard"], ["Fish", "Snowstorm"], ["Fish", "Snowmobile"]], "depth": 4}, "Tarzan": {"discovered": false, "emoji": "\ud83c\udf34", "depth": 4}}

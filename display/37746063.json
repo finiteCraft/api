@@ -1,1 +1,1 @@
-{"Mars Rover": {"crafted_by": [["Helicopter", "Mars"], ["Tumbleweed", "Mars"], ["Brick", "Mars"]], "depth": 4}, "Snow Dragon": {"discovered": false, "emoji": "\ud83d\udc09", "depth": 4}}
+{"Mars Rover": {"crafted_by": [["Helicopter", "Mars"], ["Tumbleweed", "Mars"], ["Mars", "Dust Storm"], ["Mars", "Tractor"], ["Mars", "Steamroller"], ["Mars", "Kite"], ["Mars", "Brick"], ["Mars", "Dust Bowl"]], "depth": 4}, "Fog": {"discovered": false, "emoji": "\ud83c\udf2b\ufe0f", "depth": 2}}

@@ -1,1 +1,1 @@
-{"Antarctica": {"crafted_by": [["Iceberg", "Continent"], ["Blizzard", "Continent"], ["Ice", "Continent"], ["Snowmobile", "Continent"]], "depth": 4}, "Landslide": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 3}}
+{"Antarctica": {"crafted_by": [["Snow", "Continent"], ["Glacier", "Continent"], ["Ice", "Continent"], ["Continent", "Blizzard"], ["Continent", "Snowstorm"], ["Continent", "Snowflake"], ["Continent", "Snowmobile"]], "depth": 4}, "Telescope": {"discovered": false, "emoji": "\ud83d\udd2d", "depth": 4}}

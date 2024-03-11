@@ -1,1 +1,1 @@
-{"War": {"crafted_by": [["Destruction", "Mars"], ["Prayer", "Mars"], ["Steamboat", "Mars"], ["Troll", "Mars"], ["Submarine", "Mars"]], "depth": 4}, "Dragonborn": {"discovered": false, "emoji": "\ud83d\udc09", "depth": 4}}
+{"War": {"crafted_by": [["Destruction", "Mars"], ["Mars", "Prayer"], ["Mars", "Submarine"], ["Mars", "Steamboat"], ["Mars", "Troll"], ["Mars", "Genie"]], "depth": 4}, "Toad": {"discovered": false, "emoji": "\ud83d\udc38", "depth": 4}}

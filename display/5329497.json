@@ -1,1 +1,1 @@
-{"Landslide": {"crafted_by": [["Avalanche", "Earth"], ["Mudslide", "Earthquake"], ["Mudslide", "Avalanche"], ["Mudslide", "Earth"]], "depth": 3}}
+{"Landslide": {"crafted_by": [["Earth", "Avalanche"], ["Earth", "Mudslide"]], "depth": 3}, "Saguaro": {"discovered": false, "emoji": "\ud83c\udf35", "depth": 4}}

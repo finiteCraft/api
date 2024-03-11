@@ -1,1 +1,1 @@
-{"Snow Angel": {"crafted_by": [["Angel", "Snowball"], ["Angel", "Snowmobile"], ["Angel", "Snowman"], ["Angel", "Snowstorm"], ["Angel", "Snowflake"], ["Prayer", "Snowman"], ["Prayer", "Snowflake"]], "depth": 4}, "Shroom": {"discovered": false, "emoji": "\ud83c\udf44", "depth": 4}}
+{"Snow Angel": {"crafted_by": [["Prayer", "Snowflake"], ["Prayer", "Snowman"], ["Snowstorm", "Angel"]], "depth": 4}, "Pineapple": {"discovered": false, "emoji": "\ud83c\udf4d", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Firefly": {"crafted_by": [["Fireworks", "Mosquito"], ["Fireworks", "Fairy"], ["Fireworks", "Kite"], ["Fire", "Mosquito"], ["Mosquito", "Cinder"], ["Cinder", "Nymph"]], "depth": 4}, "Sweet": {"discovered": false, "emoji": "\ud83c\udf6c", "depth": 4}}
+{"Firefly": {"crafted_by": [["Fire", "Mosquito"], ["Nymph", "Cinder"], ["Cinder", "Mosquito"]], "depth": 4}, "Sleigh": {"discovered": false, "emoji": "\ud83d\udef7", "depth": 4}}

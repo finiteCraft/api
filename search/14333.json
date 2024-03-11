@@ -1,1 +1,1 @@
-{"Bullet": {"crafted_by": [["Glass", "Train"]], "depth": 4}, "Coffee": {"crafted_by": [["Cough", "Teapot"], ["Cough", "Tea Party"]], "depth": 4}}
+{"Coffee": {"crafted_by": [["Teapot", "Cough"], ["Cough", "Tea Party"]], "depth": 4}}

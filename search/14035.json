@@ -1,1 +1,1 @@
-{"Canyon": {"crafted_by": [["River", "Mountain Range"], ["River", "Mountain"], ["River", "Landslide"], ["Mountain Range", "Landslide"], ["Mountain Range", "Soil"]], "depth": 4}}
+{"Canyon": {"crafted_by": [["Landslide", "Mountain Range"], ["Landslide", "River"], ["Mountain Range", "Soil"], ["Mountain Range", "River"], ["Mountain", "River"]], "depth": 4}}

@@ -1,1 +1,1 @@
-{"Sunrise": {"crafted_by": [["Incense", "Sun"], ["Sun", "Lighthouse"], ["Smell", "Sunset"], ["Smell", "Horizon"]], "depth": 4}}
+{"Sunrise": {"crafted_by": [["Lighthouse", "Sun"], ["Incense", "Sun"]], "depth": 4}, "Sneezeweed": {"discovered": false, "emoji": "\ud83c\udf3c", "depth": 4}}

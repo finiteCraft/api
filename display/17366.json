@@ -1,1 +1,1 @@
-{"Tunnel": {"crafted_by": [["Car", "Mountain"], ["Mountain Range", "Train"]], "depth": 4}}
+{"Tunnel": {"crafted_by": [["Lighthouse", "Train"], ["Mountain Range", "Train"], ["Mountain", "Train"], ["Fjord", "Train"]], "depth": 4}, "Surfing": {"discovered": false, "emoji": "\ud83c\udfc4", "depth": 3}}

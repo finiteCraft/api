@@ -1,1 +1,1 @@
-{"Cold": {"crafted_by": [["Iceberg", "Cough"], ["Cough", "Rain"], ["Cough", "Blizzard"], ["Cough", "Ice"], ["Cough", "Snow"], ["Ice", "Hay Fever"]], "depth": 4}}
+{"Cold": {"crafted_by": [["Hay Fever", "Ice"], ["Snow", "Cough"], ["Ice", "Cough"], ["Blizzard", "Cough"], ["Cough", "Iceberg"], ["Cough", "Rain"]], "depth": 4}}

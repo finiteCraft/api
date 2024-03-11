@@ -1,1 +1,1 @@
-{"Worm": {"crafted_by": [["Snake", "Car"]], "depth": 4}, "Delivery": {"discovered": false, "emoji": "\ud83d\ude9a", "depth": 4}}
+{"Wood": {"crafted_by": [["Avalanche", "Tree"], ["Dust", "Tree"], ["Tree", "Engine"], ["Tornado", "Tree"], ["Titanic", "Tree"], ["Viking", "Tree"]], "depth": 3}, "Rock": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 3}}

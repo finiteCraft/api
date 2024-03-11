@@ -1,1 +1,1 @@
-{"Priest": {"crafted_by": [["Cough", "Prayer"], ["Prayer", "Troll"], ["Prayer", "Car"], ["Prayer", "Fog"]], "depth": 4}, "Orca": {"discovered": false, "emoji": "\ud83d\udc0b", "depth": 4}}
+{"Priest": {"crafted_by": [["Fog", "Prayer"], ["Prayer", "Cough"], ["Prayer", "Troll"], ["Prayer", "Car"]], "depth": 4}, "Sushi": {"discovered": false, "emoji": "\ud83c\udf63", "depth": 3}}

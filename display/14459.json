@@ -1,1 +1,1 @@
-{"Cruise": {"crafted_by": [["Steamboat", "Beach"], ["Ship", "Jet"], ["Ship", "Perfume"], ["Ship", "Boat"]], "depth": 4}, "Pot": {"discovered": false, "emoji": "\ud83e\udd58", "depth": 4}}
+{"Cruise": {"crafted_by": [["Beach", "Steamboat"], ["Perfume", "Ship"], ["Boat", "Ship"]], "depth": 4}, "Helipad": {"discovered": false, "emoji": "\ud83d\ude81", "depth": 4}}

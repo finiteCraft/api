@@ -1,1 +1,1 @@
-{"Cedar": {"crafted_by": [["Pencil", "Sandalwood"], ["Sandalwood", "Saturn"], ["Sandalwood", "Tree"], ["Salt", "Tree"], ["Cough", "Tree"], ["Wood", "Perfume"]], "depth": 4}, "Missile": {"discovered": false, "emoji": "\ud83d\udca3", "depth": 4}}
+{"Cedar": {"crafted_by": [["Salt", "Tree"], ["Perfume", "Wood"], ["Cough", "Tree"]], "depth": 4}, "Refrigerator": {"discovered": false, "emoji": "\ud83e\uddca", "depth": 4}}

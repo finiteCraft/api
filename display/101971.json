@@ -1,1 +1,1 @@
-{"Cyclone": {"crafted_by": [["Tornado", "Swamp"], ["Planet", "Tornado"], ["Venus", "Tornado"], ["Tempest", "Swamp"]], "depth": 3}, "Eruption": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 2}}
+{"Cyclone": {"crafted_by": [["Tornado", "Planet"], ["Tornado", "Swamp"], ["Tornado", "Venus"], ["Tornado", "Flower"]], "depth": 3}, "Steamlandslide": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 4}}

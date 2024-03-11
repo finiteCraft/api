@@ -1,1 +1,1 @@
-{"Asthma": {"crafted_by": [["Star", "Cough"], ["Bee", "Smog"], ["Cough", "Sand"], ["Allergy", "Smog"], ["Allergy", "Meteor"], ["Meteor", "Hay Fever"]], "depth": 4}, "Angel of Death": {"discovered": false, "emoji": "\ud83d\udc7c", "depth": 4}}
+{"Asthma": {"crafted_by": [["Star", "Cough"], ["Hay Fever", "Meteor"], ["Sand", "Cough"], ["Smog", "Bee"], ["Smog", "Allergy"], ["Allergy", "Meteor"]], "depth": 4}, "Snow White": {"discovered": false, "emoji": "\ud83c\udf4e", "depth": 4}}

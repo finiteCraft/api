@@ -1,1 +1,1 @@
-{"Mushroom": {"crafted_by": [["Plant", "Fog"], ["Troll", "Rain"], ["Rain", "Mushroom"], ["Plant", "Ghost"], ["Mushroom", "Matcha"], ["Mushroom", "Moon"]], "depth": 3}}
+{"Mushroom": {"crafted_by": [["Fog", "Plant"], ["Ghost", "Plant"], ["Fog", "Seed"]], "depth": 3}}

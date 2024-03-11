@@ -1,1 +1,1 @@
-{"Water": {"crafted_by": [["Iceberg", "Fire"], ["Iceberg", "Sun"], ["Fire", "Ice"], ["Fire", "Snowman"], ["Fire", "Snow"], ["Sun", "Snowball"], ["Sun", "Ice"], ["Sun", "Snowman"], ["Sun", "Glacier"], ["Sun", "Snow"]], "depth": 0}, "Ice Plant": {"discovered": false, "emoji": "\ud83c\udf35", "depth": 4}}
+{"Water": {"crafted_by": [["Fire", "Snow"], ["Fire", "Ice"], ["Fire", "Iceberg"], ["Fire", "Snowman"], ["Snow", "Sun"], ["Glacier", "Sun"], ["Ice", "Sun"]], "depth": 0}, "Snow Storm": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}

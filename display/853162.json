@@ -1,1 +1,1 @@
-{"Vineyard": {"crafted_by": [["Land", "Wine"], ["Helicopter", "Wine"], ["Mountain Range", "Wine"]], "depth": 4}, "Eiffel Tower": {"discovered": false, "emoji": "\ud83d\uddfc", "depth": 4}}
+{"Vineyard": {"crafted_by": [["Helicopter", "Wine"], ["Land", "Wine"], ["Mountain Range", "Wine"], ["Earth", "Wine"], ["Wine", "Lake"], ["Wine", "Soil"]], "depth": 4}, "Mortar": {"discovered": false, "emoji": "\ud83d\udca3", "depth": 4}}

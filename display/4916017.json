@@ -1,1 +1,1 @@
-{"Bumblebee": {"crafted_by": [["Helicopter", "Bee"], ["Bee", "Engine"], ["Bee", "Jet"], ["Bee", "Snowmobile"], ["Bee", "Lightning"]], "depth": 4}, "Comet": {"discovered": false, "emoji": "\ud83c\udf0c", "depth": 4}}
+{"Bumblebee": {"crafted_by": [["Helicopter", "Bee"], ["Lightning", "Bee"]], "depth": 4}, "Solar": {"discovered": false, "emoji": "\u2600\ufe0f", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Saltwater": {"crafted_by": [["Salt", "Engine"], ["Salt", "Mangrove"], ["Salt", "Fjord"]], "depth": 4}}
+{"Saltwater": {"crafted_by": [["Mangrove", "Salt"], ["Salt", "Fjord"], ["Salt", "Engine"]], "depth": 4}}

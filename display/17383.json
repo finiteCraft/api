@@ -1,1 +1,1 @@
-{"Turtle": {"crafted_by": [["Mangrove", "Volcano"], ["Mangrove", "Boulder"], ["Boulder", "Frog"], ["Ocean", "Frog"], ["Ocean", "Buddha"]], "depth": 4}, "Nothing": {"discovered": false, "emoji": "", "depth": 3}}
+{"Turtle": {"crafted_by": [["Mangrove", "Volcano"], ["Mangrove", "Boulder"], ["Frog", "Ocean"], ["Frog", "Boulder"], ["Frog", "Sea"]], "depth": 4}, "Lava": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 1}}

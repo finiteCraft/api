@@ -1,1 +1,1 @@
-{"Fire Tornado": {"crafted_by": [["Fireworks", "Dust Devil"], ["Fireworks", "Cyclone"], ["Fire", "Dust Devil"], ["Fire", "Cyclone"]], "depth": 4}, "Incense": {"discovered": false, "emoji": "\ud83d\udd6f\ufe0f", "depth": 2}}
+{"Fire Tornado": {"crafted_by": [["Fire", "Dust Devil"], ["Fire", "Cyclone"], ["Dust Devil", "Fireworks"]], "depth": 4}, "Europe": {"discovered": false, "emoji": "\ud83c\uddea\ud83c\uddfa", "depth": 4}}

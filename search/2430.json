@@ -1,1 +1,1 @@
-{"Ruins": {"crafted_by": [["Sandcastle", "Storm"], ["Sandcastle", "Tempest"], ["Sandcastle", "Landslide"], ["Sandcastle", "Earthquake"], ["Sandcastle", "Tsunami"], ["Sandcastle", "Lightning"], ["Sandcastle", "Sea"]], "depth": 4}}
+{"Ruins": {"crafted_by": [["Landslide", "Sandcastle"], ["Lightning", "Sandcastle"], ["Storm", "Sandcastle"]], "depth": 4}}

@@ -1,1 +1,1 @@
-{"Whale": {"crafted_by": [["Fjord", "Water"], ["Fjord", "Ocean"], ["Geysir", "Fish"], ["Geysir", "Ocean"], ["Geysir", "Sea"]], "depth": 3}, "Sub": {"discovered": false, "emoji": "\ud83d\ude87", "depth": 4}}
+{"Whale": {"crafted_by": [["Fjord", "Ocean"], ["Fjord", "Water"], ["Landslide", "Fish"], ["Mountain", "Fish"], ["Earth", "Fish"], ["Fjord", "Submarine"], ["Fjord", "Sea"], ["Fish", "Geyser"], ["Fish", "Geysir"], ["Fish", "Boulder"], ["Fish", "Mudslide"]], "depth": 3}, "Censer": {"discovered": false, "emoji": "\ud83d\udd6f\ufe0f", "depth": 4}}

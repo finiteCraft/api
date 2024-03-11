@@ -1,1 +1,1 @@
-{"Space Ship": {"crafted_by": [["Engine", "Rocket"]], "depth": 4}, "Medicine": {"discovered": false, "emoji": "\ud83d\udc8a", "depth": 4}}
+{"Space Ship": {"crafted_by": [["Boat", "Rocket"], ["Rocket", "Engine"]], "depth": 4}, "Mist": {"discovered": false, "emoji": "\ud83c\udf2b\ufe0f", "depth": 3}}

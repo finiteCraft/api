@@ -1,1 +1,1 @@
-{"Pumpkin": {"crafted_by": [["Seed", "Ghost"], ["Car", "Cinder"], ["Cinder", "Boat"], ["Smell", "Autumn"], ["Smell", "Jack-o-lantern"], ["Sandtitanic", "Jack-o-lantern"], ["Smell", "Halloween"]], "depth": 4}, "Tractor Beam": {"discovered": false, "emoji": "\ud83c\udf00", "depth": 4}}
+{"Pumpkin": {"crafted_by": [["Ghost", "Seed"], ["Boat", "Cinder"], ["Cinder", "Car"]], "depth": 4}, "Troll 2": {"discovered": false, "emoji": "\ud83d\udca9", "depth": 4}}

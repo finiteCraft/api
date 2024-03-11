@@ -1,1 +1,1 @@
-{"Pine": {"crafted_by": [["Tree", "Fjord"], ["Norway", "Tree"], ["Norway", "Seed"], ["Iceland", "Tree"]], "depth": 3}, "Resin": {"discovered": false, "emoji": "\ud83c\udf6f", "depth": 4}}
+{"Pipe": {"crafted_by": [["Tobacco", "Glass"], ["Tobacco", "Stone"], ["Tobacco", "Lake"], ["Tobacco", "Lagoon"], ["Tobacco", "Pond"], ["Tobacco", "Clay"]], "depth": 4}, "Anemone": {"discovered": false, "emoji": "\ud83c\udf0a", "depth": 4}, "Onyx": {"crafted_by": [["Dragon", "Obsidian"]], "depth": 4}, "Steamboat Willie": {"discovered": false, "emoji": "\ud83d\udc2d", "depth": 4}}

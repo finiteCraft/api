@@ -1,1 +1,1 @@
-{"Boom": {"crafted_by": [["Steamroller", "Fireworks"], ["Fireworks", "Nothing"], ["Fireworks", "Train"], ["Fireworks", "Ocean"], ["Fireworks", "Sky"]], "depth": 4}, "Date": {"crafted_by": [["Palm", "Oasis"], ["Desert", "Wine"], ["Pollen", "Oasis"], ["Tree", "Oasis"], ["Plant", "Oasis"], ["Oasis", "Wine"], ["Oasis", "Seed"], ["Oasis", "Palm Tree"], ["Wine", "Palm Tree"]], "depth": 4}}
+{"Date": {"crafted_by": [["Palm", "Oasis"], ["Wine", "Desert"], ["Wine", "Oasis"], ["Palm Tree", "Oasis"]], "depth": 4}}

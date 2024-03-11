@@ -1,1 +1,1 @@
-{"Vinegar": {"crafted_by": [["River", "Wine"], ["Dust", "Wine"]], "depth": 4}, "Mount Everest": {"discovered": false, "emoji": "\ud83c\udfd4\ufe0f", "depth": 4}}
+{"Vinegar": {"crafted_by": [["Windmill", "Wine"], ["Wine", "Smog"], ["Wine", "Dust"], ["Wine", "River"]], "depth": 4}, "Mars": {"discovered": false, "emoji": "\ud83e\ude90", "depth": 3}}

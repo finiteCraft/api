@@ -1,1 +1,1 @@
-{"Roadkill": {"crafted_by": [["Steamroller", "Snake"], ["Steamroller", "Phoenix"], ["Steamroller", "Sphinx"], ["Steamroller", "Fish"], ["Steamroller", "Incense"], ["Steamroller", "Alligator"], ["Steamroller", "Dragon"]], "depth": 4}, "Vape": {"discovered": false, "emoji": "\ud83d\udca8", "depth": 4}}
+{"Roadkill": {"crafted_by": [["Dragon", "Steamroller"], ["Phoenix", "Steamroller"], ["Incense", "Steamroller"], ["Fish", "Steamroller"]], "depth": 4}, "Stink": {"discovered": false, "emoji": "\ud83d\udca9", "depth": 4}}

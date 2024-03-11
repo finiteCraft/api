@@ -1,1 +1,1 @@
-{"Frogger": {"crafted_by": [["Steamboat", "Frog"]], "depth": 4}, "Hives": {"discovered": false, "emoji": "\ud83d\udc1d", "depth": 4}}
+{"Frogger": {"crafted_by": [["Frog", "Steamboat"], ["Frog", "Car"]], "depth": 4}, "Honeycreeper": {"discovered": false, "emoji": "\ud83d\udc26", "depth": 4}}

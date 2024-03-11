@@ -1,1 +1,1 @@
-{"Disaster": {"crafted_by": [["Tsunami", "Hurricane"]], "depth": 3}, "Peanut Butter Mountain": {"discovered": false, "emoji": "\ud83e\udd5c", "depth": 5}}
+{"Disaster": {"crafted_by": [["Avalanche", "Tsunami"], ["Tsunami", "Hurricane"], ["Landslide", "Avalanche"], ["Titanic", "Tsunami"]], "depth": 3}, "Date": {"discovered": false, "emoji": "\ud83d\udc91", "depth": 4}}

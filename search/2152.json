@@ -1,1 +1,1 @@
-{"Grass": {"crafted_by": [["Smell", "Lawn"], ["Smell", "Green"], ["Smell", "Lawnmower"]], "depth": 5}, "Grape": {"crafted_by": [["Seed", "Wine"], ["Smell", "Raisin"]], "depth": 4}}
+{"Grape": {"crafted_by": [["Wine", "Seed"]], "depth": 4}}

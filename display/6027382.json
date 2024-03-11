@@ -1,1 +1,1 @@
-{"Wind Farm": {"crafted_by": [["Mountain Range", "Windmill"]], "depth": 4}, "Ruins": {"discovered": false, "emoji": "\ud83c\udfdb\ufe0f", "depth": 4}}
+{"Wind Farm": {"crafted_by": [["Windmill", "Windmill"], ["Windmill", "Mountain Range"]], "depth": 4}, "Shiitake": {"discovered": false, "emoji": "\ud83c\udf44", "depth": 4}}

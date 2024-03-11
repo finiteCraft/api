@@ -1,1 +1,1 @@
-{"Dune Buggy": {"crafted_by": [["Car", "Sand Dunes"], ["Car", "Sand"], ["Car", "Sandstorm"], ["Car", "Desert"]], "depth": 4}, "Fruit": {"discovered": false, "emoji": "\ud83c\udf47", "depth": 4}}
+{"Dune Buggy": {"crafted_by": [["Sandstorm", "Car"]], "depth": 4}, "Coffin": {"discovered": false, "emoji": "\u26b0\ufe0f", "depth": 4}}

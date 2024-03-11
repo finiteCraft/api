@@ -1,1 +1,1 @@
-{"Ferry": {"crafted_by": [["River", "Car"], ["River", "Boat"], ["Car", "Fjord"], ["Island", "Train"], ["Mountain Range", "Boat"]], "depth": 4}, "Tan": {"discovered": false, "emoji": "\ud83c\udf1e", "depth": 5}}
+{"Ferry": {"crafted_by": [["Mountain Range", "Boat"], ["Boat", "River"], ["Fjord", "Car"]], "depth": 4}, "Cuban": {"discovered": false, "emoji": "\ud83c\udde8\ud83c\uddfa", "depth": 4}}
