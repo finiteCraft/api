@@ -1,1 +1,1 @@
-{"Champagne": {"crafted_by": [["Geysir", "Wine"], ["Wine", "Submarine"], ["Wine", "Geyser"]], "depth": 4}}
+{"Champagne": {"crafted_by": [["Fountain", "Wine"]], "depth": 5}, "Lion": {"discovered": false, "emoji": "\ud83e\udd81", "depth": 4}}

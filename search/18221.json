@@ -1,1 +1,1 @@
-{"Zombie": {"crafted_by": [["Tumbleweed", "Swamp"]], "depth": 4}}
+{"Zombee": {"crafted_by": [["Penguin", "Zombie"]], "depth": 5}, "Zombie": {"crafted_by": [["Tumbleweed", "Swamp"], ["Penguin", "Skeleton"]], "depth": 4}}
