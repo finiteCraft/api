@@ -1,1 +1,1 @@
-{"Martian": {"crafted_by": [["Cactus", "Mars"], ["Mars", "Ghost"]], "depth": 4}, "Ammonititanic": {"discovered": false, "emoji": "\ud83e\udd95", "depth": 5}}
+{"Martian": {"crafted_by": [["Ghost", "Mars"], ["Mars", "Cactus"]], "depth": 4}, "Rocket": {"discovered": false, "emoji": "\ud83d\ude80", "depth": 3}}

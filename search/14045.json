@@ -1,1 +1,1 @@
-{"Carrot": {"crafted_by": [["Engine", "Seed"], ["Car", "Mudweed"], ["Snowman", "Seed"], ["Snowman", "Soil"]], "depth": 4}}
+{"Carrot": {"crafted_by": [["Soil", "Snowman"], ["Snowman", "Seed"], ["Seed", "Engine"], ["Mudweed", "Car"]], "depth": 4}}

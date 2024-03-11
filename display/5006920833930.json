@@ -1,1 +1,1 @@
-{"Wooden Submarine": {"crafted_by": [["Submarine", "Tree"]], "depth": 4}}
+{"Wooden Submarine": {"crafted_by": [["Tree", "Submarine"]], "depth": 4}, "Splash": {"discovered": false, "emoji": "\ud83d\udca6", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Rainforest": {"crafted_by": [["Mountain Range", "Mangrove"], ["Mangrove", "Cloud"], ["Forest", "Rain"], ["Rain", "Venus Flytrap"], ["Rain", "Plantea"]], "depth": 4}, "Dust Bunny": {"discovered": false, "emoji": "\ud83d\udc30", "depth": 3}}
+{"Rainforest": {"crafted_by": [["Mangrove", "Mountain Range"], ["Mangrove", "Cloud"], ["Rain", "Forest"], ["Rain", "Venus Flytrap"], ["Rain", "Plantea"]], "depth": 4}, "Venus Mosquito Trap": {"discovered": false, "emoji": "\ud83e\udd9f", "depth": 4}}

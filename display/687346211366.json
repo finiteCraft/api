@@ -1,1 +1,1 @@
-{"Snow Helicopter": {"crafted_by": [["Helicopter", "Snowmobile"]], "depth": 4}, "Plane": {"discovered": false, "emoji": "\u2708\ufe0f", "depth": 4}}
+{"Snow Helicopter": {"crafted_by": [["Helicopter", "Snowmobile"], ["Stealth", "Snow Helicopter"]], "depth": 4}, "Wind Turbine": {"discovered": false, "emoji": "\ud83d\udca8", "depth": 4}}

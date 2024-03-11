@@ -1,1 +1,1 @@
-{"Sculpture": {"crafted_by": [["Pencil", "Clay"], ["Destruction", "Statue"], ["Wine", "Stone"]], "depth": 4}, "Steampunk Glasses": {"discovered": false, "emoji": "\ud83d\udd76\ufe0f", "depth": 4}}
+{"Sculpture": {"crafted_by": [["Wine", "Stone"], ["Destruction", "Statue"], ["Clay", "Pencil"]], "depth": 4}, "War": {"discovered": false, "emoji": "\ud83d\udca5", "depth": 4}}

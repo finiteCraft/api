@@ -1,1 +1,1 @@
-{"Windsurfer": {"crafted_by": [["Windmill", "Surfer"]], "depth": 4}, "Fishing Pole": {"discovered": false, "emoji": "\ud83c\udfa3", "depth": 4}}
+{"Windsurfer": {"crafted_by": [["Windmill", "Surfer"], ["Surfer", "Aeolus"], ["Aeolus", "Surfboard"]], "depth": 4}, "Seal": {"discovered": false, "emoji": "\ud83e\uddad", "depth": 5}}

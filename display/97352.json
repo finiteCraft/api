@@ -1,1 +1,1 @@
-{"Aladdin": {"crafted_by": [["Genie", "Helicopter"], ["Genie", "Mountain Range"], ["Genie", "Plantea"]], "depth": 4}, "Snow Tea": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}
+{"Aladdin": {"crafted_by": [["Helicopter", "Genie"], ["Mountain Range", "Genie"], ["Plantea", "Genie"], ["Stealth", "Magic Carpet"]], "depth": 4}, "Money": {"discovered": false, "emoji": "\ud83d\udcb5", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Sting": {"crafted_by": [["Pencil", "Bee"], ["Karma", "Wasp"], ["Party", "Wasp"], ["Battery", "Wasp"]], "depth": 4}, "Pepto Bismol": {"discovered": false, "emoji": "\ud83d\udc8a", "depth": 5}, "Stink": {"crafted_by": [["Disaster", "Perfume"], ["Party", "Smell"], ["Battery", "Smell"]], "depth": 4}, "Spongebob Squarepants": {"discovered": false, "emoji": "\ud83c\udf4d", "depth": 5}}
+{"Sting": {"crafted_by": [["Bee", "Pencil"], ["Bee", "Kite"]], "depth": 4}, "Winter": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}

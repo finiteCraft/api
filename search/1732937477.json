@@ -1,1 +1,1 @@
-{"Fire Tornado": {"crafted_by": [["Fireworks", "Dust Devil"], ["Fireworks", "Cyclone"], ["Fire", "Dust Devil"], ["Fire", "Cyclone"]], "depth": 4}}
+{"Fire Tornado": {"crafted_by": [["Fire", "Dust Devil"], ["Fire", "Cyclone"], ["Dust Devil", "Fireworks"], ["Fireworks", "Cyclone"]], "depth": 4}}

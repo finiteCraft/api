@@ -1,1 +1,1 @@
-{"Railroad": {"crafted_by": [["Land", "Train"]], "depth": 4}, "Firewood": {"discovered": false, "emoji": "\ud83e\udeb5", "depth": 4}}
+{"Railroad": {"crafted_by": [["Land", "Train"], ["Tree", "Train"], ["Stone", "Train"]], "depth": 4}, "Dragonfire": {"discovered": false, "emoji": "\ud83d\udd25", "depth": 5}}

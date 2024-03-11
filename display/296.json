@@ -1,1 +1,1 @@
-{"Farm": {"crafted_by": [["Land", "Hay Fever"], ["Land", "Tractor"], ["Land", "Soil"], ["Land", "Rain"], ["Land", "Dust Bowl"], ["Tumbleweed", "Tractor"], ["Windmill", "Tractor"], ["Windmill", "Soil"], ["Hay Fever", "Tractor"], ["Mountain Range", "Tractor"], ["Earth", "Tractor"]], "depth": 4}, "Zeus": {"discovered": false, "emoji": "\u26a1\ufe0f", "depth": 4}}
+{"Fall": {"crafted_by": [["Leaf", "Disaster"]], "depth": 4}, "Trees": {"discovered": false, "emoji": "\ud83c\udf33", "depth": 4}}

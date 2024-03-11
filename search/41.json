@@ -1,1 +1,1 @@
-{"Boo": {"crafted_by": [["Ghost", "Fireworks"]], "depth": 4}, "Bog": {"crafted_by": [["Fjord", "Swamp"], ["Storm", "Swamp"], ["Swamp", "Swamp"], ["Ghost", "Swamp"], ["Quagmire", "Cough"], ["Quagmire", "Swamp"], ["Destruction", "Swamp"], ["Cough", "Marsh"]], "depth": 3}}
+{"Boo": {"crafted_by": [["Ghost", "Fireworks"]], "depth": 4}, "Bow": {"crafted_by": [["Dragon", "Yew"], ["Stealth", "Yew"]], "depth": 5}, "Dew": {"crafted_by": [["Fairy", "Mist"]], "depth": 4}, "Bug": {"crafted_by": [["Fossil", "Windshield"]], "depth": 5}}

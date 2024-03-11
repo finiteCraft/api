@@ -1,1 +1,1 @@
-{"Gnome": {"crafted_by": [["Troll", "Nymph"], ["Troll", "Fairy"], ["Troll", "Soil"], ["Mud", "Fairy"]], "depth": 4}, "Moonshine": {"discovered": false, "emoji": "\ud83c\udf19", "depth": 4}}
+{"Gnome": {"crafted_by": [["Earth", "Fairy"], ["Fairy", "Stone"], ["Fairy", "Mud"], ["Fairy", "Troll"], ["Fairy", "Rock"], ["Soil", "Troll"], ["Nymph", "Troll"]], "depth": 4}, "Stoned": {"discovered": false, "emoji": "\ud83c\udf43", "depth": 5}}

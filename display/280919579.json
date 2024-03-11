@@ -1,1 +1,1 @@
-{"Sandtitanic": {"crafted_by": [["Sandbox", "Titanic"]], "depth": 4}, "Pulp": {"discovered": false, "emoji": "\ud83c\udf4a", "depth": 4}}
+{"Sandtitanic": {"crafted_by": [["Sandwich", "Titanic"], ["Titanic", "Sandbox"], ["Dragon", "Sandtitanic"], ["Stealth", "Sandtitanic"]], "depth": 4}, "Sahara": {"discovered": false, "emoji": "\ud83d\udc2a", "depth": 4}}

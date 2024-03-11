@@ -1,1 +1,1 @@
-{"Goblin": {"crafted_by": [["Swamp", "Troll"], ["Troll", "Geysir"], ["Peanut Butter", "Goblin"], ["Penguin", "Goblin"], ["Karma", "Goblin"]], "depth": 4}, "Skateboarder": {"discovered": false, "emoji": "\ud83d\udef9", "depth": 5}}
+{"Goblin": {"crafted_by": [["Steam", "Troll"], ["Swamp", "Troll"], ["Geysir", "Troll"], ["Troll", "Genie"], ["Dragon", "Gnome"]], "depth": 4}, "Continent": {"discovered": false, "emoji": "\ud83c\udf0e", "depth": 3}, "Goblet": {"crafted_by": [["Dragon", "Cup"]], "depth": 5}, "Minecraft": {"discovered": false, "emoji": "\ud83c\udff0", "depth": 4}}

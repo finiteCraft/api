@@ -1,1 +1,1 @@
-{"Lawnmower": {"crafted_by": [["Vacuum", "Tractor"]], "depth": 4}, "Mountain Boat": {"discovered": false, "emoji": "\ud83d\udea4", "depth": 4}}
+{"Lawnmower": {"crafted_by": [["Vacuum", "Tractor"], ["Tractor", "Ash"], ["Tractor", "Snake"], ["Tractor", "Flower"], ["Steamroller", "Weed"]], "depth": 4}, "Mountain Boat": {"discovered": false, "emoji": "\ud83d\udea4", "depth": 4}}

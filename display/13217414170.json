@@ -1,1 +1,1 @@
-{"Monster Truck": {"crafted_by": [["Car", "Swamp"]], "depth": 4}, "Coconut": {"discovered": false, "emoji": "\ud83e\udd65", "depth": 4}}
+{"Monster Truck": {"crafted_by": [["Tractor", "Swamp"], ["Swamp", "Car"], ["Dragon", "Monster Truck"]], "depth": 4}, "Pallet": {"discovered": false, "emoji": "\ud83d\udce6", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Sand Surfing": {"crafted_by": [["Dust Devil", "Surfing"]], "depth": 4}, "Altar": {"discovered": false, "emoji": "\ud83d\uded0", "depth": 4}}
+{"Sand Surfing": {"crafted_by": [["Dust Devil", "Surfing"], ["Dust Storm", "Surfing"], ["Surfing", "Sand Dunes"]], "depth": 4}, "Sky": {"discovered": false, "emoji": "\ud83c\udf0c", "depth": 3}}

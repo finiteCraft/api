@@ -1,1 +1,1 @@
-{"Raft": {"crafted_by": [["Plant", "Boat"], ["Wood", "Island"]], "depth": 4}, "Pink": {"discovered": false, "emoji": "\ud83d\udc97", "depth": 4}}
+{"Poke": {"crafted_by": [["Sandwich", "Hawaii"], ["Hawaii", "Seaweed"], ["Hawaii", "Sushi"], ["Hawaii", "Fish"]], "depth": 4}, "Mount Fuji": {"discovered": false, "emoji": "\ud83d\uddfb", "depth": 5}, "Pork": {"crafted_by": [["Dragon", "Pig"]], "depth": 5}, "Sandy": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 4}}

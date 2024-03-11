@@ -1,1 +1,1 @@
-{"Jet Ski": {"crafted_by": [["Engine", "Surfboard"], ["Engine", "Surfer"], ["Jet", "Fish"], ["Jet", "Boat"]], "depth": 4}, "Kronos": {"discovered": false, "emoji": "\ud83d\udd70\ufe0f", "depth": 4}}
+{"Jet Ski": {"crafted_by": [["Boat", "Jet"], ["Fish", "Jet"], ["Surfer", "Engine"], ["Engine", "Surfboard"]], "depth": 4}, "Amberpunk": {"discovered": false, "emoji": "\ud83c\udf0c", "depth": 4}}

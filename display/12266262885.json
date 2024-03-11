@@ -1,1 +1,1 @@
-{"Haunted House": {"crafted_by": [["Sandcastle", "Ghost"]], "depth": 4}, "Coral Reef": {"discovered": false, "emoji": "\ud83d\udc20", "depth": 4}}
+{"Haunted House": {"crafted_by": [["Ghost", "Brick"], ["Ghost", "Sandcastle"]], "depth": 4}, "Electric Dragon": {"discovered": false, "emoji": "\ud83d\udc09", "depth": 5}}

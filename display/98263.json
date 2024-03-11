@@ -1,1 +1,1 @@
-{"Carboat": {"crafted_by": [["Steamboat", "Car"]], "depth": 4}, "Pelican": {"discovered": false, "emoji": "\ud83d\udc26", "depth": 4}}
+{"Carboat": {"crafted_by": [["Steamboat", "Car"], ["Dragon", "Carboat"]], "depth": 4}, "Dragon Trap": {"discovered": false, "emoji": "\ud83d\udc32", "depth": 5}}

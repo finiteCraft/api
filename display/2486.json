@@ -1,1 +1,1 @@
-{"Water": {"crafted_by": [["Fire", "Snow"], ["Fire", "Ice"], ["Fire", "Iceberg"], ["Fire", "Snowman"], ["Snow", "Sun"], ["Glacier", "Sun"], ["Ice", "Sun"]], "depth": 0}, "Snow Storm": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}
+{"Water": {"crafted_by": [["Fire", "Snow"], ["Fire", "Ice"], ["Fire", "Iceberg"], ["Fire", "Snowman"], ["Snow", "Sun"], ["Glacier", "Sun"], ["Ice", "Sun"], ["Snowflake", "Sun"], ["Sun", "Iceberg"], ["Sun", "Snowman"], ["Sun", "Snowball"]], "depth": 0}, "Mountain Dewshine": {"discovered": false, "emoji": "\ud83d\udca6", "depth": 4}}

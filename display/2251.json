@@ -1,1 +1,1 @@
-{"Krill": {"crafted_by": [["Plant", "Whale"], ["Whale", "Seaweed"], ["Whale", "Leaf"]], "depth": 4}, "Titanosaur": {"discovered": false, "emoji": "\ud83e\udd95", "depth": 5}}
+{"Krill": {"crafted_by": [["Seaweed", "Whale"], ["Leaf", "Whale"], ["Whale", "Plant"]], "depth": 4}, "Jungle": {"discovered": false, "emoji": "\ud83c\udf34", "depth": 4}}

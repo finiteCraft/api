@@ -1,1 +1,1 @@
-{"Bird": {"crafted_by": [["Phoenix", "Mud"], ["Fish", "Sky"]], "depth": 4}, "Black Sand": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 4}}
+{"Bird": {"crafted_by": [["Phoenix", "Mud"], ["Fish", "Sky"], ["Sky", "Kite"], ["Island", "Kite"], ["Fossil", "Eagle"]], "depth": 4}, "Black Sand": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 4}, "Carp": {"crafted_by": [["Car", "Kelp"]], "depth": 4}, "Hangover": {"discovered": false, "emoji": "\ud83c\udf77", "depth": 4}}

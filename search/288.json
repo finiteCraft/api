@@ -1,1 +1,1 @@
-{"Boat": {"crafted_by": [["Engine", "Lake"], ["Mangrove", "Wood"], ["Poseidon", "Wood"], ["Fjord", "Wood"], ["Fish", "Wood"], ["Continent", "Wood"], ["Titanic", "Wood"]], "depth": 3}, "Chai": {"crafted_by": [["Fire", "Tea"], ["Himalayas", "Tea Bag"], ["Himalayas", "Tea"]], "depth": 3}}
+{"Chai": {"crafted_by": [["Fire", "Tea"], ["Himalayas", "Tea Bag"], ["Himalayas", "Tea"], ["Nothing", "Chai"], ["Tea Bag", "Dune"], ["Tea Bag", "Train"], ["Tea Bag", "Sandalwood"], ["Tea", "Train"], ["Tea", "Sandalwood"], ["Sandalwood", "Tea Storm"]], "depth": 3}}

@@ -1,1 +1,1 @@
-{"Crop": {"crafted_by": [["Seed", "Viking"], ["Cloud", "Tractor"]], "depth": 4}}
+{"Crop": {"crafted_by": [["Tractor", "Cloud"], ["Viking", "Seed"]], "depth": 4}, "Ash": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 2}}

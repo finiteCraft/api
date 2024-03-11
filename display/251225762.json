@@ -1,1 +1,1 @@
-{"Frost Giant": {"crafted_by": [["Blizzard", "Viking"]], "depth": 4}, "Honey": {"discovered": false, "emoji": "\ud83c\udf6f", "depth": 3}}
+{"Frost Giant": {"crafted_by": [["Blizzard", "Viking"], ["Viking", "Snowflake"], ["Viking", "Snowman"]], "depth": 4}, "Brandy": {"discovered": false, "emoji": "\ud83c\udf78", "depth": 4}}

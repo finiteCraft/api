@@ -1,1 +1,1 @@
-{"Sandboarding": {"crafted_by": [["Sandbox", "Surfing"], ["Sandstorm", "Surfing"]], "depth": 4}, "Mercury": {"discovered": false, "emoji": "\ud83e\ude90", "depth": 4}}
+{"Sandboarding": {"crafted_by": [["Sandstorm", "Surfing"], ["Surfing", "Sandbox"], ["Fossil", "Sandboarding"]], "depth": 4}, "Snowpiercer": {"discovered": false, "emoji": "\ud83d\ude82", "depth": 4}}

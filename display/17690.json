@@ -1,1 +1,1 @@
-{"Vulcan": {"crafted_by": [["Nymph", "Volcano"], ["Lightning", "Venus"], ["Volcano", "Venus"]], "depth": 4}}
+{"Vulcan": {"crafted_by": [["Volcano", "Nymph"], ["Volcano", "Venus"], ["Venus", "Lightning"], ["Venus", "Train"], ["Venus", "Tempest"]], "depth": 4}, "Bogland": {"discovered": false, "emoji": "\ud83c\udf3f", "depth": 4}}

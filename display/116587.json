@@ -1,1 +1,1 @@
-{"Pudding": {"crafted_by": [["Puddle", "Sandwich"], ["Puddle", "Rock"], ["Puddle", "Stone"], ["Smell", "Puddingtitanic"]], "depth": 4}, "Smerm": {"discovered": false, "emoji": "\ud83d\udc38", "depth": 5}}
+{"Pudding": {"crafted_by": [["Sandwich", "Puddle"], ["Stone", "Puddle"], ["Puddle", "Rock"]], "depth": 4}, "Ship": {"discovered": false, "emoji": "\ud83d\udea2", "depth": 3}}

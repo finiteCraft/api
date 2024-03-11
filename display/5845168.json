@@ -1,1 +1,1 @@
-{"Solar Car": {"crafted_by": [["Sun", "Car"]], "depth": 4}, "Seasoning": {"discovered": false, "emoji": "\ud83e\uddc2", "depth": 4}}
+{"Solar Car": {"crafted_by": [["Sun", "Car"], ["Stealth", "Solar Car"]], "depth": 4}, "Air": {"discovered": false, "emoji": "\ud83d\udca8", "depth": 4}}

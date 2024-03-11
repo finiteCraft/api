@@ -1,1 +1,1 @@
-{"Skateboard": {"crafted_by": [["Surfboard", "Brick"], ["Surfboard", "Fossil"], ["Brick", "Surfer"]], "depth": 4}, "Sandmobile": {"discovered": false, "emoji": "\ud83c\udfdc\ufe0f", "depth": 4}}
+{"Skateboard": {"crafted_by": [["Fossil", "Surfboard"], ["Surfer", "Brick"], ["Surfboard", "Brick"], ["Fossil", "Skate"], ["Fossil", "Snakeboard"], ["Dragon", "Skate"], ["Stealth", "Skate"]], "depth": 4}, "Don Quixote": {"discovered": false, "emoji": "\ud83d\udc34", "depth": 4}}
