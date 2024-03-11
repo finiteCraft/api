@@ -1,1 +1,1 @@
-{"Brick": {"crafted_by": [["Clay", "Clay"], ["Sneezing", "Brick"]], "depth": 4}, "Frankenstein": {"discovered": false, "emoji": "\ud83e\udddf", "depth": 5}}
+{"Brick": {"crafted_by": [["Fire", "Mud"], ["Clay", "Clay"]], "depth": 3}, "Island": {"discovered": false, "emoji": "\ud83c\udfdd\ufe0f", "depth": 2}}

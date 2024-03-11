@@ -1,1 +1,1 @@
-{"Rubble": {"crafted_by": [["Stone", "Destruction"], ["Destruction", "Brick"]], "depth": 4}, "Garbage": {"discovered": false, "emoji": "\ud83d\uddd1\ufe0f", "depth": 5}}
+{"Rubble": {"crafted_by": [["Destruction", "Brick"], ["Destruction", "Stone"]], "depth": 4}, "Mud Geyser": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 4}}

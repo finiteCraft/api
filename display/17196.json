@@ -1,1 +1,1 @@
-{"Sunken": {"crafted_by": [["Submarine", "Sun"], ["Sun", "Titanic"]], "depth": 4}}
+{"Sunken": {"crafted_by": [["Sun", "Submarine"]], "depth": 4}, "Ore": {"discovered": false, "emoji": "\ud83c\udf6a", "depth": 4}}

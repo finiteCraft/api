@@ -1,1 +1,1 @@
-{"Bulldozer": {"crafted_by": [["Landslide", "Tractor"], ["Himalayas", "Tractor"], ["Boulder", "Tractor"], ["Mudslide", "Engine"], ["Tractor", "Mountain"]], "depth": 4}, "Sushi": {"discovered": false, "emoji": "\ud83c\udf63", "depth": 3}}
+{"Bulldozer": {"crafted_by": [["Engine", "Mudslide"]], "depth": 4}, "Pufferfish": {"discovered": false, "emoji": "\ud83d\udc21", "depth": 4}}

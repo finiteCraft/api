@@ -1,1 +1,1 @@
-{"Throat": {"crafted_by": [["Tea", "Cough"], ["Tea Bag", "Cough"]], "depth": 4}}
+{"Throat": {"crafted_by": [["Cough", "Tea"], ["Cough", "Tea Bag"]], "depth": 4}, "Mars Rover": {"discovered": false, "emoji": "\ud83d\udef0\ufe0f", "depth": 4}}

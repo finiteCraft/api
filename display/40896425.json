@@ -1,1 +1,1 @@
-{"Snow Globe": {"crafted_by": [["Iceberg", "Dust Bowl"], ["Snowflake", "Glass"], ["Snowflake", "Dust Bowl"], ["Snowflake", "Planet"]], "depth": 4}}
+{"Snow Globe": {"crafted_by": [["Iceberg", "Dust Bowl"], ["Planet", "Snowflake"]], "depth": 4}, "Tear": {"discovered": false, "emoji": "\ud83d\ude22", "depth": 4}}

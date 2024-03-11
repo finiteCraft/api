@@ -1,1 +1,1 @@
-{"Asthma": {"crafted_by": [["Bee", "Smog"], ["Star", "Cough"]], "depth": 4}}
+{"Asthma": {"crafted_by": [["Star", "Cough"], ["Bee", "Smog"], ["Cough", "Sand"], ["Allergy", "Smog"], ["Allergy", "Meteor"]], "depth": 4}, "Angel of Death": {"discovered": false, "emoji": "\ud83d\udc7c", "depth": 4}}

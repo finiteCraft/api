@@ -1,1 +1,1 @@
-{"Flood": {"crafted_by": [["Atlantis", "Rain"], ["Poseidon", "Rain"], ["Sandstorm", "Rain"], ["Disaster", "Rain"], ["Rain", "Storm"]], "depth": 4}}
+{"Flour": {"crafted_by": [["Dust", "Windmill"]], "depth": 4}, "Flood": {"crafted_by": [["Storm", "River"], ["Storm", "Rain"], ["River", "Tempest"], ["River", "Hurricane"], ["River", "Rain"], ["River", "Tsunami"], ["River", "Sandstorm"], ["River", "Avalanche"], ["River", "Cyclone"], ["River", "Tornado"], ["River", "Disaster"], ["Destruction", "Rain"]], "depth": 4}}

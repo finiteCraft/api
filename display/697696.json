@@ -1,1 +1,1 @@
-{"Dead Sea": {"crafted_by": [["Desert", "Salt"]], "depth": 4}, "Sand Art": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 5}}
+{"Dead Sea": {"crafted_by": [["Salt", "Desert"], ["Salt", "Lake"], ["Salt", "Oasis"]], "depth": 4}, "Space Whale": {"discovered": false, "emoji": "\ud83d\udc0b", "depth": 4}}

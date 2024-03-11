@@ -1,1 +1,1 @@
-{"Earthquake": {"crafted_by": [["Disaster", "Snake"], ["Party", "Earthquake"]], "depth": 4}, "Yogi": {"discovered": false, "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f", "depth": 5}}
+{"Earthquake": {"crafted_by": [["Planet", "Tsunami"], ["Volcano", "Tsunami"], ["Land", "Destruction"], ["Land", "Landslide"], ["Land", "Mudslide"], ["Land", "Disaster"], ["Destruction", "Landslide"], ["Destruction", "Tsunami"], ["Destruction", "Mudslide"]], "depth": 3}, "Black Pearl": {"discovered": false, "emoji": "\ud83c\udff4\u200d\u2620\ufe0f", "depth": 4}}

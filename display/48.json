@@ -1,1 +1,1 @@
-{"Sea": {"crafted_by": [["Ocean", "Ocean"], ["Ocean", "Incense"], ["Ocean", "Tea"], ["Poseidon", "Nothing"], ["Salt", "Rain"], ["Karma", "Anemone"]], "depth": 3}, "Nurse": {"discovered": false, "emoji": "\ud83d\udc69\u200d\u2695\ufe0f", "depth": 5}}
+{"Sea": {"crafted_by": [["Lake", "Ocean"], ["Tea", "Ocean"], ["Ocean", "Ocean"], ["Ocean", "Incense"], ["River", "Ocean"], ["Salt", "Rain"], ["Salt", "Lagoon"], ["Salt", "Ocean"]], "depth": 3}, "Aeolus": {"discovered": false, "emoji": "\ud83c\udf2c\ufe0f", "depth": 3}}

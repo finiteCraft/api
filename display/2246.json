@@ -1,1 +1,1 @@
-{"Marsh": {"crafted_by": [["Sea", "Swamp"], ["Swamp", "Salt"], ["Swamp", "Rainbow"]], "depth": 4}, "Pencil Sharpener": {"discovered": false, "emoji": "\ud83d\udcd4", "depth": 4}}
+{"Marsh": {"crafted_by": [["Lake", "Swamp"], ["Ocean", "Swamp"], ["Water", "Swamp"], ["Land", "Swamp"], ["River", "Swamp"], ["Salt", "Swamp"], ["Beach", "Swamp"]], "depth": 3}, "Kiln": {"discovered": false, "emoji": "\ud83e\uddf1", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Love Boat": {"crafted_by": [["Ship", "Venus"]], "depth": 4}}
+{"Love Boat": {"crafted_by": [["Venus", "Ship"], ["Venus", "Boat"]], "depth": 4}, "Goblin": {"discovered": false, "emoji": "\ud83d\udc79", "depth": 4}}

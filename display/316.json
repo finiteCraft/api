@@ -1,1 +1,1 @@
-{"Lake": {"crafted_by": [["Water", "Water"]], "depth": 1}, "Curtain": {"discovered": false, "emoji": "\ud83c\udf80", "depth": 5}}
+{"Land": {"crafted_by": [["Fjord", "Earth"]], "depth": 3}, "Quasar": {"discovered": false, "emoji": "\ud83c\udf0c", "depth": 4}, "Lake": {"crafted_by": [["Water", "Water"], ["Mountain", "Water"], ["Mountain Range", "Water"], ["Storm", "Pond"], ["River", "River"], ["River", "Water"], ["River", "Puddle"], ["Mountain Range", "Pond"], ["Mountain Range", "Puddle"]], "depth": 1}, "Bifrost": {"discovered": false, "emoji": "\ud83c\udf08", "depth": 4}}

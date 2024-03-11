@@ -1,1 +1,1 @@
-{"Tadpole": {"crafted_by": [["Seed", "Frog"], ["River", "Frog"], ["Puddle", "Frog"], ["Frog", "Frog"], ["Frog", "Destruction"], ["Frog", "Mosquito"], ["Frog", "Whale"], ["Frog", "Pond"], ["Frog", "Seaweed"], ["Frog", "Salt"], ["Frog", "Water"], ["Frog", "Fish"]], "depth": 4}}
+{"Tadpole": {"crafted_by": [["River", "Frog"], ["Salt", "Frog"], ["Destruction", "Frog"]], "depth": 4}, "Flat Earth": {"discovered": false, "emoji": "\ud83c\udf0e", "depth": 4}}

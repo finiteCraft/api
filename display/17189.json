@@ -1,1 +1,1 @@
-{"Vacuum": {"crafted_by": [["Dust", "Engine"], ["Vacuum", "Venus"], ["Viking", "Dust"], ["Dust", "Ghost"], ["Smell", "Dustbuster"], ["Smell", "Hoover"], ["Smell", "Dust Trap"], ["Smell", "Dyson"]], "depth": 3}}
+{"Vacuum": {"crafted_by": [["Dust", "Engine"], ["Dust", "Viking"], ["Venus", "Vacuum"], ["Engine", "Dust Bunny"]], "depth": 3}, "Sand": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 2}}

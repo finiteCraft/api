@@ -1,1 +1,1 @@
-{"Sailboat": {"crafted_by": [["Dandelion Patch", "Ship"], ["Wind", "Submarine"], ["Wind", "Steamboat"], ["Sea", "Windmill"], ["Puddle", "Ship"], ["Lotus", "Ship"], ["Windmill", "Boat"], ["Kite", "Ocean"]], "depth": 4}}
+{"Sailboat": {"crafted_by": [["Wind", "Submarine"], ["Ship", "Dandelion Patch"], ["Ship", "Lotus"], ["Ship", "Puddle"]], "depth": 4}, "Pottery": {"discovered": false, "emoji": "\ud83c\udffa", "depth": 4}}

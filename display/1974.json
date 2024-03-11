@@ -1,1 +1,1 @@
-{"Bacon": {"crafted_by": [["Smoke", "Salt"], ["Smell", "Ham"], ["Smell", "Pancake"], ["Smell", "Frying"], ["Smell", "Pig"]], "depth": 4}, "Rum": {"discovered": false, "emoji": "\ud83c\udf79", "depth": 5}}
+{"Bacon": {"crafted_by": [["Salt", "Smoke"]], "depth": 4}, "SOS": {"discovered": false, "emoji": "\ud83c\udd98", "depth": 4}}

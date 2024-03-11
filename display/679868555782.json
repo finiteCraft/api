@@ -1,1 +1,1 @@
-{"Rocky Mountains": {"crafted_by": [["Mountain Range", "Angel"], ["Mountain Range", "Dust Bowl"], ["Sandtitanic", "Rocky Mountains"]], "depth": 4}}
+{"Rocky Mountains": {"crafted_by": [["Angel", "Mountain Range"], ["Mountain Range", "Dust Bowl"]], "depth": 4}, "Maple": {"discovered": false, "emoji": "\ud83c\udf41", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Spaceship": {"crafted_by": [["Mars", "Ship"], ["Mars", "Boat"], ["Genie", "Rocket"], ["Submarine", "Rocket"], ["Dragon", "Rocket"], ["Ship", "Rocket"], ["Ship", "Planet"], ["Sandtitanic", "Alien"]], "depth": 4}}
+{"Spaceship": {"crafted_by": [["Planet", "Ship"], ["Ship", "Rocket"]], "depth": 4}, "Venus de Milo": {"discovered": false, "emoji": "\ud83c\udffa", "depth": 4}}

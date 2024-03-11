@@ -1,1 +1,1 @@
-{"Pollen": {"crafted_by": [["Plant", "Dust"], ["Flower", "Rain"]], "depth": 2}}
+{"Pollen": {"crafted_by": [["Dust", "Plant"], ["Dust", "Flower"], ["Allergy", "Leaf"]], "depth": 2}}

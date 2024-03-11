@@ -1,1 +1,1 @@
-{"Bees": {"crafted_by": [["Karma", "Hives"], ["Ouroboros", "Hives"], ["Art", "Hives"], ["Sashimi", "Hives"], ["Party", "Swarm"], ["Party", "Hives"], ["Battery", "Hives"]], "depth": 5}, "Pengdra": {"discovered": false, "emoji": "\ud83d\udc09", "depth": 5}, "Beer": {"crafted_by": [["Viking", "Glass"], ["Tea Surfer", "Mead"], ["Battery", "Meade"]], "depth": 4}, "Turtle": {"discovered": false, "emoji": "\ud83d\udc22", "depth": 5}}
+{"Bees": {"crafted_by": [["Shipwreck", "Honey"]], "depth": 4}, "Lightning": {"discovered": false, "emoji": "\u26a1\ufe0f", "depth": 3}}

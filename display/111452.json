@@ -1,1 +1,1 @@
-{"Missile": {"crafted_by": [["Jet", "Pencil"]], "depth": 4}, "Cup": {"discovered": false, "emoji": "\ud83c\udf76", "depth": 4}}
+{"Missile": {"crafted_by": [["Pencil", "Jet"], ["Pencil", "Rocket"]], "depth": 4}, "Turtle": {"discovered": false, "emoji": "\ud83d\udc22", "depth": 4}}

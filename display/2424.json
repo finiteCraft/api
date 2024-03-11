@@ -1,1 +1,1 @@
-{"Smell": {"crafted_by": [["Pencil", "Perfume"], ["Perfume", "Troll"], ["Perfume", "Mist"], ["Perfume", "Nothing"], ["Forest", "Perfume"]], "depth": 4}, "Wicca": {"discovered": false, "emoji": "\ud83c\udf19", "depth": 5}}
+{"Smell": {"crafted_by": [["Pencil", "Perfume"], ["Wind", "Perfume"], ["Destruction", "Perfume"], ["Vacuum", "Perfume"], ["Troll", "Perfume"]], "depth": 4}, "Tree": {"discovered": false, "emoji": "\ud83c\udf33", "depth": 2}}

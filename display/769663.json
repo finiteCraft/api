@@ -1,1 +1,1 @@
-{"Mangrove": {"crafted_by": [["Swamp", "Palm"], ["Karma", "Mangrove"], ["Dryad", "Mangrove"]], "depth": 4}, "America": {"discovered": false, "emoji": "\ud83c\uddfa\ud83c\uddf8", "depth": 4}}
+{"Mangrove": {"crafted_by": [["Tree", "Swamp"], ["Fireworks", "Mangrove"], ["Sun", "Mangrove"], ["Destruction", "Mangrove"], ["Venus", "Mangrove"], ["Palm", "Swamp"], ["Mangrove", "Mermaid"], ["Mangrove", "Hurricane"], ["Mangrove", "Nothing"], ["Mangrove", "Tree"], ["Mangrove", "Tsunami"]], "depth": 3}, "Ferryman": {"discovered": false, "emoji": "\ud83d\udea4", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Exhaust": {"crafted_by": [["Car", "Smoke"], ["Smell", "Vroom"], ["Smell", "Racecar"], ["Smell", "Engine"]], "depth": 4}}
+{"Exhaust": {"crafted_by": [["Smoke", "Car"]], "depth": 4}, "Nirvana": {"discovered": false, "emoji": "\ud83c\udf0a", "depth": 4}}

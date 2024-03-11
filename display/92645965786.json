@@ -1,1 +1,1 @@
-{"Mountain Range": {"crafted_by": [["Mountain", "Mountain"]], "depth": 2}, "South Pole": {"discovered": false, "emoji": "\ud83c\udf28\ufe0f", "depth": 5}}
+{"Mountain Range": {"crafted_by": [["Mountain", "Mountain"], ["Mountain Range", "Mountain"], ["Pencil", "Mountain Range"], ["Mountain Range", "Nothing"]], "depth": 2}, "Flood": {"discovered": false, "emoji": "\ud83c\udf0a", "depth": 4}}
