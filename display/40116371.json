@@ -1,1 +1,1 @@
-{"Sand Dunes": {"crafted_by": [["Mountain Range", "Dust Storm"], ["Dandelion Patch", "Sand"]], "depth": 3}, "Trash": {"discovered": false, "emoji": "\ud83d\uddd1\ufe0f", "depth": 5}}
+{"Sand Dunes": {"crafted_by": [["Dust Storm", "Mountain Range"]], "depth": 3}, "Smoke": {"discovered": false, "emoji": "\ud83d\udca8", "depth": 1}}

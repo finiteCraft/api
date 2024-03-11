@@ -1,1 +1,1 @@
-{"Marsh": {"crafted_by": [["Sea", "Swamp"]], "depth": 4}, "Perfume": {"discovered": false, "emoji": "\ud83d\udc43", "depth": 3}}
+{"Marsh": {"crafted_by": [["Sea", "Swamp"], ["Swamp", "Salt"], ["Swamp", "Rainbow"]], "depth": 4}, "Perfume": {"discovered": false, "emoji": "\ud83d\udc43", "depth": 3}}

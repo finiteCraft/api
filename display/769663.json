@@ -1,1 +1,1 @@
-{"Mangrove": {"crafted_by": [["Swamp", "Tree"], ["Dune", "Mangrove"], ["Mermaid", "Mangrove"], ["Plant", "Lagoon"], ["Nothing", "Mangrove"], ["Palm Tree", "Swamp"], ["Plantea", "Mangrove"], ["Destruction", "Mangrove"], ["Sun", "Mangrove"]], "depth": 3}}
+{"Mangrove": {"crafted_by": [["Swamp", "Palm"]], "depth": 4}, "America": {"discovered": false, "emoji": "\ud83c\uddfa\ud83c\uddf8", "depth": 4}}

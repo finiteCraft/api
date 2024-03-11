@@ -1,1 +1,1 @@
-{"Rain": {"crafted_by": [["Tree", "Cloud"], ["Stone", "Cloud"], ["Cloud", "Cloud"], ["Cloud", "Ocean"], ["Cloud", "Mountain Range"], ["Cloud", "Tea"], ["Cloud", "Fog"], ["Sand", "Cloud"], ["Cloud", "Pollen"], ["Hay Fever", "Storm"], ["Sky", "Rainbow"]], "depth": 3}, "Tea": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 2}}
+{"Poke": {"crafted_by": [["Sandwich", "Hawaii"], ["Sushi", "Hawaii"], ["Fish", "Hawaii"]], "depth": 4}, "Bear": {"discovered": false, "emoji": "\ud83d\udc3b", "depth": 4}}

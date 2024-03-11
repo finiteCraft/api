@@ -1,1 +1,1 @@
-{"Frog": {"crafted_by": [["Fish", "Swamp"]], "depth": 4}, "Europe": {"discovered": false, "emoji": "\ud83c\uddea\ud83c\uddfa", "depth": 4}}
+{"Frog": {"crafted_by": [["Fish", "Swamp"], ["Swamp", "Dandelion"]], "depth": 4}, "Europe": {"discovered": false, "emoji": "\ud83c\uddea\ud83c\uddfa", "depth": 4}}

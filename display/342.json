@@ -1,1 +1,1 @@
-{"Seed": {"crafted_by": [["Clay", "Dandelion"]], "depth": 4}, "Loch Ness": {"discovered": false, "emoji": "\ud83d\udc0a", "depth": 4}}
+{"Seed": {"crafted_by": [["Clay", "Dandelion"], ["Dandelion", "Flower"], ["Dandelion", "Storm"], ["Nothing", "Flower"]], "depth": 4}, "Loch Ness": {"discovered": false, "emoji": "\ud83d\udc0a", "depth": 4}}

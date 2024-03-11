@@ -1,1 +1,1 @@
-{"Earth": {"crafted_by": [["Venus", "Continent"]], "depth": 0}, "Cough": {"crafted_by": [["Ash", "Pollen"], ["Coral", "Cough"]], "depth": 3}}
+{"Earth": {"crafted_by": [["Venus", "Continent"]], "depth": 0}, "Cough": {"crafted_by": [["Ash", "Pollen"], ["Coral", "Cough"], ["Nothing", "Cough"]], "depth": 3}}

@@ -1,1 +1,1 @@
-{"Stonehenge": {"crafted_by": [["Rock", "Surfboard"]], "depth": 4}, "Vampire": {"discovered": false, "emoji": "\ud83e\udddb", "depth": 4}}
+{"Stonehenge": {"crafted_by": [["Rock", "Surfboard"], ["Surfboard", "Boulder"]], "depth": 4}, "Coughland": {"discovered": false, "emoji": "\ud83e\udd27", "depth": 4}}
