@@ -1,1 +1,1 @@
-{"Bog": {"crafted_by": [["Swamp", "Swamp"], ["Swamp", "Ghost"], ["Swamp", "Storm"], ["Forest", "Swamp"]], "depth": 4}, "Boa": {"crafted_by": [["Karma", "Anaconda"]], "depth": 5}, "Cow": {"crafted_by": [["Fountain", "Beefish"], ["Fountain", "Salt Lick"]], "depth": 5}, "GOP": {"crafted_by": [["Tea Party", "Swamp"]], "depth": 4}}
+{"Asp": {"crafted_by": [["Caduceus", "Cleopatra"]], "depth": 5}, "Cod": {"crafted_by": [["Fish", "Cough"]], "depth": 4}, "Cow": {"crafted_by": [["Fountain", "Beefish"], ["Fountain", "Salt Lick"], ["Kali", "Salt Lick"]], "depth": 5}}

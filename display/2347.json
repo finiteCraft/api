@@ -1,1 +1,1 @@
-{"Plant": {"crafted_by": [["Water", "Earth"], ["Venus", "Swamp"]], "depth": 1}, "Cave": {"discovered": false, "emoji": "\ud83d\udd73\ufe0f", "depth": 4}}
+{"Plant": {"crafted_by": [["Water", "Earth"], ["Venus", "Swamp"], ["Fountain", "Seed"], ["Fountain", "Green"], ["Karma", "Green"], ["Caduceus", "Seed"]], "depth": 1}, "Medicine": {"discovered": false, "emoji": "\ud83d\udc8a", "depth": 5}}
