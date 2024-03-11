@@ -1,1 +1,1 @@
-{"Snowboard": {"crafted_by": [["Surfboard", "Snowstorm"], ["Surfboard", "Snowflake"], ["Surfboard", "Snowmobile"], ["Surfboard", "Snow"], ["Surfboard", "Ice"], ["Surfboard", "Mountain"], ["Surfboard", "Avalanche"], ["Surfboard", "Blizzard"], ["Snowstorm", "Surf"], ["Snowflake", "Surf"], ["Snowman", "Wood"], ["Surf", "Snowmobile"], ["Surf", "Snow"], ["Surf", "Blizzard"]], "depth": 4}}
+{"Snowboard": {"crafted_by": [["Dryad", "Snowboarding"]], "depth": 5}, "Cool": {"discovered": false, "emoji": "\ud83d\ude0e", "depth": 5}}
