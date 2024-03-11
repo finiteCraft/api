@@ -1,1 +1,1 @@
-{"Snow": {"crafted_by": [["Rain", "Himalayas"], ["Glacier", "Dandelion"], ["Fountain", "Snowman"]], "depth": 4}, "Ice Snake": {"discovered": false, "emoji": "\ud83d\udc0d", "depth": 4}, "Soda": {"crafted_by": [["Fountain", "Soup"]], "depth": 5}, "Ice Tea": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 4}}
+{"Snow": {"crafted_by": [["Rain", "Himalayas"], ["Glacier", "Dandelion"], ["Fountain", "Snowman"], ["Karma", "Ice"]], "depth": 4}, "Ice Snake": {"discovered": false, "emoji": "\ud83d\udc0d", "depth": 4}}

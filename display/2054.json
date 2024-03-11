@@ -1,1 +1,1 @@
-{"Cough": {"crafted_by": [["Ash", "Pollen"], ["Coral", "Cough"], ["Nothing", "Cough"]], "depth": 3}, "Fishbowl": {"discovered": false, "emoji": "\ud83d\udc20", "depth": 4}}
+{"Earth": {"crafted_by": [["Venus", "Continent"], ["Antarctica", "Pangaea"], ["Antarctica", "Planet"], ["Fountain", "Planet"], ["Karma", "Pangaea"], ["Karma", "Planet"]], "depth": 0}, "Glacier": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}}
