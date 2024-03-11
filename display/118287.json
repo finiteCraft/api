@@ -1,1 +1,1 @@
-{"Tea Rex": {"crafted_by": [["Tea Surfer", "Riddle"]], "depth": 5}, "Soup": {"discovered": false, "emoji": "\ud83c\udf72", "depth": 4}}
+{"Tea Rex": {"crafted_by": [["Tea Surfer", "Riddle"], ["Teacup Storm", "Fossil"]], "depth": 5}, "Soup": {"discovered": false, "emoji": "\ud83c\udf72", "depth": 4}, "Tea Pot": {"crafted_by": [["David", "Tea Bag"], ["Tea Surfer", "Vase"]], "depth": 5}, "Pengazon": {"discovered": false, "emoji": "\ud83d\udc27", "depth": 5}}
