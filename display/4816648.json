@@ -1,1 +1,1 @@
-{"Carnation": {"crafted_by": [["Car", "Flower"]], "depth": 4}}
+{"Carnation": {"crafted_by": [["Flower", "Car"]], "depth": 4}, "Pine": {"discovered": false, "emoji": "\ud83c\udf32", "depth": 3}}

@@ -1,1 +1,1 @@
-{"Waterfall": {"crafted_by": [["River", "Geysir"], ["River", "Earthquake"], ["River", "Rock"], ["River", "Stone"], ["River", "Geyser"], ["River", "Boulder"], ["Angel", "Pond"], ["Mountain Range", "Rain"], ["Rain", "Fjord"], ["Boulder", "Water"]], "depth": 4}}
+{"Waterfall": {"crafted_by": [["Mountain Range", "Rain"], ["Mountain", "Rain"], ["Fjord", "Rain"], ["Geyser", "River"], ["Stone", "River"], ["Earthquake", "River"], ["Boulder", "River"], ["Boulder", "Water"], ["Geysir", "River"], ["Angel", "Pond"], ["River", "Rock"], ["Party", "Waterfall"]], "depth": 4}}

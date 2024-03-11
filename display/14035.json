@@ -1,1 +1,1 @@
-{"Canyon": {"crafted_by": [["River", "Landslide"], ["River", "Mountain Range"], ["River", "Mountain"], ["Landslide", "Mountain Range"], ["Mountain Range", "Soil"]], "depth": 4}, "Frankenstein": {"discovered": false, "emoji": "\ud83e\udddf", "depth": 4}}
+{"Canyon": {"crafted_by": [["Landslide", "Mountain Range"], ["Landslide", "River"], ["Mountain Range", "Soil"], ["Mountain Range", "River"], ["Mountain", "River"]], "depth": 4}, "Steam Viking": {"discovered": false, "emoji": "\ud83e\udddd\u200d\u2642\ufe0f", "depth": 4}}

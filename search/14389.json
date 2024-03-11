@@ -1,1 +1,1 @@
-{"Cotton": {"crafted_by": [["Steamboat", "Plant"], ["Steamboat", "Seed"], ["Cloud", "Seed"]], "depth": 4}, "Dinner": {"crafted_by": [["Wine", "Train"]], "depth": 4}}
+{"Cotton": {"crafted_by": [["Steamboat", "Seed"], ["Steamboat", "Plant"], ["Seed", "Cloud"], ["Steamship", "Seed"], ["Steamship", "Crop"], ["Steamship", "Seedpod"], ["Steamship", "Seeds"]], "depth": 4}}

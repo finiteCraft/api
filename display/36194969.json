@@ -1,1 +1,1 @@
-{"Greenhouse": {"crafted_by": [["Glass", "Plantea"], ["Glass", "Tractor"]], "depth": 4}, "Rose": {"discovered": false, "emoji": "\ud83c\udf39", "depth": 4}}
+{"Greenhouse": {"crafted_by": [["Tractor", "Glass"], ["Glass", "Plantea"]], "depth": 4}, "Sunshine": {"discovered": false, "emoji": "\u2600\ufe0f", "depth": 4}}

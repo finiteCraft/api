@@ -1,1 +1,1 @@
-{"Steam Car": {"crafted_by": [["Car", "Steampunk"]], "depth": 4}}
+{"Steam Car": {"crafted_by": [["Steampunk", "Car"], ["Steamship", "Solar Car"], ["Wreck", "Steam Car"]], "depth": 4}}

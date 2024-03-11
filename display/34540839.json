@@ -1,1 +1,1 @@
-{"Coughboard": {"crafted_by": [["Cough", "Surfboard"]], "depth": 4}, "Hoover": {"discovered": false, "emoji": "\ud83e\uddf9", "depth": 4}}
+{"Coughboard": {"crafted_by": [["Cough", "Surfboard"], ["Wreck", "Coughboard"]], "depth": 4}, "Hoover": {"discovered": false, "emoji": "\ud83e\uddf9", "depth": 4}}

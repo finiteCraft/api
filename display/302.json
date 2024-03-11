@@ -1,1 +1,1 @@
-{"Hack": {"crafted_by": [["Cough", "Troll"]], "depth": 4}, "Sphinxweed": {"discovered": false, "emoji": "\ud83c\udf3f", "depth": 4}}
+{"Hack": {"crafted_by": [["Cough", "Troll"], ["Wreck", "Hack"]], "depth": 4}, "Sphinxweed": {"discovered": false, "emoji": "\ud83c\udf3f", "depth": 4}, "Hail": {"crafted_by": [["Ice", "Thunder"], ["Ice", "Rain"], ["Snowstorm", "Rain"], ["Snow", "Rain"]], "depth": 4}, "Snowblower": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}

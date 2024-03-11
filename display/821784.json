@@ -1,1 +1,1 @@
-{"Seaplane": {"crafted_by": [["Lake", "Jet"], ["Kelp", "Jet"], ["Jet", "Seaweed"]], "depth": 4}}
+{"Seaplane": {"crafted_by": [["Seaweed", "Jet"], ["Lake", "Jet"], ["Kelp", "Jet"]], "depth": 4}, "Wheel": {"discovered": false, "emoji": "\u2699\ufe0f", "depth": 4}}

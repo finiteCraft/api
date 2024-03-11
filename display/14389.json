@@ -1,1 +1,1 @@
-{"Dinner": {"crafted_by": [["Wine", "Train"], ["Dragon", "Table"]], "depth": 4}, "Stealth Whale": {"discovered": false, "emoji": "\ud83d\udc0b\ud83d\udd75\ufe0f\u200d", "depth": 5}, "Cotton": {"crafted_by": [["Steamboat", "Seed"], ["Steamboat", "Plant"], ["Seed", "Cloud"]], "depth": 4}, "Blue Lagoon": {"discovered": false, "emoji": "\ud83d\udca6", "depth": 4}}
+{"Dinner": {"crafted_by": [["Wine", "Train"], ["Dragon", "Table"], ["Steamship", "Table"]], "depth": 4}, "Stench": {"discovered": false, "emoji": "\ud83d\udc43", "depth": 5}}

@@ -1,1 +1,1 @@
-{"Rover": {"crafted_by": [["Pencil", "Mars"], ["Dust", "Mars"], ["Engine", "Mars"], ["Jet", "Mars"], ["Car", "Mars"], ["Snowmobile", "Mars"]], "depth": 4}}
+{"Rover": {"crafted_by": [["Mars", "Dust"], ["Mars", "Engine"], ["Mars", "Train"], ["Mars", "Pencil"], ["Mars", "Snowmobile"], ["Mars", "Car"], ["Mars", "Jet"], ["Wreck", "Rover"]], "depth": 4}}

@@ -1,1 +1,1 @@
-{"Peat": {"crafted_by": [["Obsidian", "Bog"]], "depth": 4}, "Bifrost": {"discovered": false, "emoji": "\ud83c\udf08", "depth": 4}}
+{"Peat": {"crafted_by": [["Obsidian", "Bog"], ["Bog", "Kelp"], ["Bog", "Rock"]], "depth": 4}, "Sand Trap": {"discovered": false, "emoji": "\ud83c\udfd6\ufe0f", "depth": 4}}

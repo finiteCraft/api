@@ -1,1 +1,1 @@
-{"Mountain Wine": {"crafted_by": [["Wine", "Mountain Dew"]], "depth": 4}, "Stone": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 2}}
+{"Mountain Wine": {"crafted_by": [["Wine", "Mountain Dew"], ["Party", "Mountain Wine"]], "depth": 4}, "Stone": {"discovered": false, "emoji": "\ud83e\udea8", "depth": 2}}

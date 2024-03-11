@@ -1,1 +1,1 @@
-{"Survivor": {"crafted_by": [["Shipwreck", "Surf"], ["Shipwreck", "Surfboard"]], "depth": 4}, "Snowstorm": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}}
+{"Survivor": {"crafted_by": [["Surf", "Shipwreck"], ["Surfer", "Shipwreck"], ["Surfing", "Shipwreck"], ["Shipwreck", "Surfboard"], ["Wreck", "Lifeboat"], ["Wreck", "Raft"]], "depth": 4}, "Pearl": {"discovered": false, "emoji": "\ud83e\uddaa", "depth": 4}}

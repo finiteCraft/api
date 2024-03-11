@@ -1,1 +1,1 @@
-{"Brine": {"crafted_by": [["Salt", "Wine"], ["Salt", "Steam"], ["Salt", "Puddle"], ["Salt", "Mud"], ["Salt", "Water"], ["Salt", "Pond"]], "depth": 4}}
+{"Brick": {"crafted_by": [["Fire", "Mud"], ["Wine", "Brick"], ["Cinder", "Mud"], ["Stone", "Mudweed"], ["Clay", "Clay"], ["Fossil", "Adobe"]], "depth": 3}}

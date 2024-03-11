@@ -1,1 +1,1 @@
-{"Vampire": {"crafted_by": [["Sun", "Troll"], ["Sun", "Ghost"], ["Venus", "Ghost"]], "depth": 4}, "Tea Storm": {"discovered": false, "emoji": "\ud83c\udf2a\ufe0f", "depth": 3}}
+{"Vampire": {"crafted_by": [["Ghost", "Venus"], ["Ghost", "Sun"], ["Ghost", "Fairy"], ["Sun", "Troll"], ["Fossil", "Carpathian"], ["Stealth", "Carpathian"], ["Steamship", "Moonlight"], ["Tea Ceremony", "Carpathian"], ["Party", "Carpathian"]], "depth": 4}, "Chariot": {"discovered": false, "emoji": "\ud83d\uded2", "depth": 4}}

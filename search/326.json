@@ -1,1 +1,1 @@
-{"Lung": {"crafted_by": [["Smog", "Tree"], ["Cough", "Water"]], "depth": 4}, "Nerd": {"crafted_by": [["Dragon", "Glasses"]], "depth": 5}, "Luna": {"crafted_by": [["Moon", "Island"], ["Moon", "Plantea"]], "depth": 4}, "Moat": {"crafted_by": [["Puddle", "Sandcastle"]], "depth": 4}, "Moai": {"crafted_by": [["Hawaii", "Sphinx"], ["Hawaii", "Stone"], ["Fossil", "Easter Island"], ["Dragon", "Easter Island"]], "depth": 4}}
+{"Ness": {"crafted_by": [["Loch Ness Monster", "Mario"]], "depth": 5}, "Nerd": {"crafted_by": [["Dragon", "Glasses"], ["Party", "Glasses"]], "depth": 5}}

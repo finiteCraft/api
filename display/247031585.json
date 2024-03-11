@@ -1,1 +1,1 @@
-{"Dusty Glass": {"crafted_by": [["Glass", "Dust Bunny"]], "depth": 4}, "Fenghuang": {"discovered": false, "emoji": "\ud83d\udc24", "depth": 4}}
+{"Dusty Glass": {"crafted_by": [["Dust Bunny", "Glass"], ["Party", "Dusty Glass"]], "depth": 4}, "Steam Sushi": {"discovered": false, "emoji": "\ud83c\udf63", "depth": 5}}

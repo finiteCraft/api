@@ -1,1 +1,1 @@
-{"Hoover Dam": {"crafted_by": [["Boat", "Vacuum"]], "depth": 4}, "Iceberg": {"discovered": false, "emoji": "\ud83c\udf0a", "depth": 3}}
+{"Hoover Dam": {"crafted_by": [["Boat", "Vacuum"], ["Wreck", "Hoover Dam"]], "depth": 4}, "Migrant": {"discovered": false, "emoji": "\ud83d\udeb6\u200d\u2640\ufe0f", "depth": 5}}

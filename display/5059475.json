@@ -1,1 +1,1 @@
-{"Flat Frog": {"crafted_by": [["Frog", "Steamroller"]], "depth": 4}, "Thunderbird": {"discovered": false, "emoji": "\ud83e\udd85", "depth": 4}}
+{"Flat Frog": {"crafted_by": [["Frog", "Steamroller"], ["Wreck", "Flat Frog"]], "depth": 4}, "Jedi": {"discovered": false, "emoji": "\ud83e\udd3a", "depth": 5}}

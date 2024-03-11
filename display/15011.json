@@ -1,1 +1,1 @@
-{"Fungus": {"crafted_by": [["Mushroom", "Windmill"], ["Mushroom", "Dust"], ["Mushroom", "Dust Bowl"], ["Mushroom", "Dust Devil"], ["Smell", "Spore"], ["Smell", "Mushroom"], ["Smell", "Dust Mushroom"]], "depth": 4}}
+{"Fungus": {"crafted_by": [["Windmill", "Mushroom"], ["Dust Devil", "Mushroom"], ["Dust", "Mushroom"], ["Mushroom", "Dust Bowl"], ["Party", "Spore"], ["Wreck", "Spore"]], "depth": 4}, "Railroad": {"discovered": false, "emoji": "\ud83d\ude86", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Helicopter": {"crafted_by": [["Dandelion", "Engine"], ["Helicopter", "Helicopter"], ["Helicopter", "Lily"], ["Helicopter", "Venus"], ["Helicopter", "Smog"], ["Helicopter", "Sky"], ["Helicopter", "Engine"], ["Helicopter", "Weed"], ["Helicopter", "Pencil"], ["Helicopter", "Matcha"], ["Helicopter", "Mosquito"], ["Helicopter", "Sandalwood"], ["Dandelion Patch", "Engine"], ["Engine", "Mosquito"], ["Dragon", "Helipad"], ["Stealth", "Helipad"]], "depth": 3}}
+{"Helicoptor": {"crafted_by": [["Helicopter", "Snake"]], "depth": 4}}

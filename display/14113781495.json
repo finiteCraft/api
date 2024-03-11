@@ -1,1 +1,1 @@
-{"Steamquagmire": {"crafted_by": [["Steampunk", "Quagmire"]], "depth": 4}, "Scotch": {"discovered": false, "emoji": "\ud83e\udd43", "depth": 6}}
+{"Steamquagmire": {"crafted_by": [["Quagmire", "Steampunk"], ["Fossil", "Steamquagmire"], ["Party", "Steamquagmire"]], "depth": 4}, "Haunted Tree": {"discovered": false, "emoji": "\ud83c\udf33", "depth": 4}}

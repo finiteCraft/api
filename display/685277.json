@@ -1,1 +1,1 @@
-{"Amphicar": {"crafted_by": [["Car", "Boat"]], "depth": 4}}
+{"Amphicar": {"crafted_by": [["Boat", "Car"], ["Fossil", "Amphibious Car"], ["Dragon", "Amphicar"], ["Wreck", "Amphicar"]], "depth": 4}, "Disco": {"discovered": false, "emoji": "\ud83d\udc83", "depth": 5}}

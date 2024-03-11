@@ -1,1 +1,1 @@
-{"Prickly": {"crafted_by": [["Cactus", "Atlantis"], ["Cactus", "Brick"], ["Cactus", "Tea Party"], ["Cactus", "Mountain Dew"]], "depth": 4}}
+{"Prickly": {"crafted_by": [["Atlantis", "Cactus"], ["Tea Party", "Cactus"], ["Cactus", "Brick"], ["Mountain Dew", "Cactus"]], "depth": 4}, "Yak": {"discovered": false, "emoji": "\ud83d\udc11", "depth": 4}}

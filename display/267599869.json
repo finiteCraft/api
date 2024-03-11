@@ -1,1 +1,1 @@
-{"Mississippi": {"crafted_by": [["Mountain Range", "Steamboat"]], "depth": 4}, "Vampire": {"discovered": false, "emoji": "\ud83e\udddb", "depth": 4}}
+{"Mississippi": {"crafted_by": [["Mountain Range", "Steamboat"], ["Steamboat", "Mud"]], "depth": 4}, "Truck": {"discovered": false, "emoji": "\ud83d\ude9a", "depth": 4}}

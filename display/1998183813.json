@@ -1,1 +1,1 @@
-{"Snakeboarder": {"crafted_by": [["Snake", "Surfer"]], "depth": 4}, "Ice Storm": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}
+{"Snakeboarder": {"crafted_by": [["Surfer", "Snake"], ["Party", "Snakeboarder"]], "depth": 4}, "Planet": {"discovered": false, "emoji": "\ud83e\ude90", "depth": 2}}
