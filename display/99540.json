@@ -1,1 +1,1 @@
-{"Boulder": {"crafted_by": [["Stone", "Stone"], ["Car", "Rock"], ["Landslide", "Rock"], ["Troll", "Rock"], ["Nothing", "Rock"], ["Rock", "Tractor"], ["Rock", "Mudslide"], ["Rock", "Stone"], ["Rock", "Avalanche"], ["Rock", "Weed"]], "depth": 3}, "Electric Eel": {"discovered": false, "emoji": "\ud83e\udd8e", "depth": 4}}
+{"Boulder": {"crafted_by": [["Stone", "Stone"], ["Rock", "Troll"], ["Rock", "Nothing"], ["Rock", "Mudslide"]], "depth": 3}, "Yoga": {"discovered": false, "emoji": "\ud83e\uddd8\u200d\u2640\ufe0f", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Ghost": {"crafted_by": [["Fog", "Island"], ["Fog", "Swamp"], ["Fog", "Tree"], ["Mist", "Tumbleweed"], ["Steam", "Tumbleweed"], ["Teacup", "Fog"], ["Shipwreck", "Fog"], ["Fog", "Ship"], ["Fog", "Kite"], ["Fog", "Angel"], ["Fog", "Tumbleweed"], ["Fog", "Train"], ["Smell", "Spirit"], ["Smell", "Casper"], ["Smell", "Foggy Ghost"], ["Smell", "Ghostbusters"], ["Smell", "Haunted"]], "depth": 3}}
+{"Ghost": {"crafted_by": [["Tree", "Fog"], ["Island", "Fog"]], "depth": 3}, "Sandwitch": {"discovered": false, "emoji": "\ud83e\udd6a", "depth": 4}}

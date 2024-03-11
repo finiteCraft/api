@@ -1,1 +1,1 @@
-{"Surge": {"crafted_by": [["Wave", "Mountain Dew"]], "depth": 4}, "Hot Tea": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 4}, "Sweat": {"crafted_by": [["Smell", "Gatorade"], ["Smell", "Sauna"], ["Smell", "Summer"]], "depth": 5}, "Boat": {"discovered": false, "emoji": "\ud83d\udea4", "depth": 3}}
+{"Sushi": {"crafted_by": [["Cloud", "Seaweed"], ["Tsunami", "Seaweed"], ["Incense", "Seaweed"], ["Hurricane", "Seaweed"], ["Tea", "Seaweed"], ["Island", "Seaweed"], ["Whale", "Sushi"]], "depth": 3}, "Ocean": {"discovered": false, "emoji": "\ud83c\udf0a", "depth": 2}}

@@ -1,1 +1,1 @@
-{"Vase": {"crafted_by": [["Statue", "Glass"], ["Lily", "Glass"], ["Lily", "Clay"], ["Glass", "Ash"], ["Glass", "Flower"], ["Glass", "Clay"], ["Flower", "Clay"], ["Smell", "Pottery"], ["Smirnoff", "Ceramic"]], "depth": 4}, "Sphinx": {"discovered": false, "emoji": "\ud83d\udc2b", "depth": 3}}
+{"Surf": {"crafted_by": [["Wave", "Smoke"], ["Steam", "Wave"], ["Fjord", "Surf"], ["Sea", "Hawaii"]], "depth": 2}, "Sneezeweed": {"discovered": false, "emoji": "\ud83c\udf3c", "depth": 4}}

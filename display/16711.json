@@ -1,1 +1,1 @@
-{"Salmon": {"crafted_by": [["River", "Salt"], ["River", "Sushi"], ["River", "Fish"], ["Kelp", "Norway"], ["Honey", "Fish"], ["Mountain Range", "Fish"], ["Smell", "Chinook"], ["Smell", "Salad"]], "depth": 4}, "Smell Tempest": {"discovered": false, "emoji": "\ud83c\udf2a\ufe0f", "depth": 5}}
+{"Salmon": {"crafted_by": [["Norway", "Sushi"], ["Norway", "Fish"], ["Norway", "Kelp"]], "depth": 4}, "Coughing": {"discovered": false, "emoji": "\ud83e\udd27", "depth": 4}}

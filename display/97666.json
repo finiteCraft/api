@@ -1,1 +1,1 @@
-{"America": {"crafted_by": [["Cactus", "Continent"], ["Car", "Continent"], ["Lake", "Continent"], ["Viking", "Continent"], ["Steamboat", "Continent"], ["Steamboat", "Land"], ["Rainbow", "Continent"], ["Continent", "Angel"], ["Continent", "Clay"], ["Continent", "Fireworks"], ["Continent", "Prayer"], ["Continent", "Perfume"], ["Continent", "Lighthouse"], ["Continent", "Tea Party"], ["Land", "Fireworks"]], "depth": 4}}
+{"America": {"crafted_by": [["Clay", "Continent"], ["Angel", "Continent"]], "depth": 4}, "Humpback": {"discovered": false, "emoji": "\ud83d\udc0b", "depth": 4}}

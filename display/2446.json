@@ -1,1 +1,1 @@
-{"Squid": {"crafted_by": [["Poseidon", "Mudweed"], ["Mushroom", "Submarine"], ["Sea", "Lightning"], ["Sea", "Pencil"], ["Mist", "Whale"], ["Lightning", "Ocean"], ["Submarine", "Quagmire"], ["Submarine", "Storm"], ["Submarine", "Pencil"], ["Submarine", "Mudweed"], ["Surfer", "Quagmire"], ["Surf", "Quagmire"], ["Quagmire", "Seaweed"], ["Helicopter", "Seaweed"], ["Smell", "Calamari"], ["Smell", "Octopus"]], "depth": 4}}
+{"Squid": {"crafted_by": [["Whale", "Mist"], ["Sea", "Pencil"]], "depth": 4}, "Bouquet": {"discovered": false, "emoji": "\ud83d\udc90", "depth": 4}}
