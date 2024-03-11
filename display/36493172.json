@@ -1,1 +1,1 @@
-{"Holy Water": {"crafted_by": [["Fountain", "Covenant"], ["Fountain", "Jesus"]], "depth": 5}, "Tea Boarder": {"discovered": false, "emoji": "\ud83c\udf75\ud83c\udfc2", "depth": 5}}
+{"Holy Water": {"crafted_by": [["Prayer", "Water"], ["Wine", "Water"]], "depth": 4}, "Chariot": {"discovered": false, "emoji": "\ud83d\uded2", "depth": 4}}

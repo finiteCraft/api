@@ -1,1 +1,1 @@
-{"Windshield": {"crafted_by": [["Engine", "Glass"]], "depth": 4}, "Shipwreck": {"discovered": false, "emoji": "\ud83d\udea2", "depth": 3}}
+{"Windshield": {"crafted_by": [["Engine", "Glass"], ["Car", "Aeolus"], ["Glass", "Aeolus"]], "depth": 4}, "Prickly": {"discovered": false, "emoji": "\ud83c\udf35", "depth": 4}}

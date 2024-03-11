@@ -1,1 +1,1 @@
-{"Sea Serpent": {"crafted_by": [["Narwhal", "Cobra"]], "depth": 5}, "Mona Lisa": {"discovered": false, "emoji": "\ud83d\uddbc\ufe0f", "depth": 5}}
+{"Sea Serpent": {"crafted_by": [["Snake", "Submarine"], ["Snake", "Water"], ["Fish", "Dragon"], ["Ocean", "Dragon"]], "depth": 4}, "Meteor": {"discovered": false, "emoji": "\ud83d\udcab", "depth": 3}}

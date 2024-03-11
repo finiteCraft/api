@@ -1,1 +1,1 @@
-{"Turtle": {"crafted_by": [["Ouroboros", "Shore"]], "depth": 5}, "Jormungand": {"discovered": false, "emoji": "\ud83d\udc0d", "depth": 5}}
+{"Turtle": {"crafted_by": [["Mangrove", "Volcano"], ["Mangrove", "Boulder"], ["Boulder", "Frog"], ["Ocean", "Frog"], ["Ocean", "Buddha"]], "depth": 4}, "Nothing": {"discovered": false, "emoji": "", "depth": 3}}

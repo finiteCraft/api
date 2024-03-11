@@ -1,1 +1,1 @@
-{"Fighter": {"crafted_by": [["Wine", "Jet"], ["Frog", "Jet"], ["Jet", "Perfume"], ["Jet", "Fjord"], ["Smell", "Fighter Jet"]], "depth": 4}, "Tea Whale": {"discovered": false, "emoji": "\ud83d\udc0b", "depth": 4}}
+{"Fighter": {"crafted_by": [["Jet", "Fjord"], ["Jet", "Wine"], ["Jet", "Perfume"], ["Jet", "Frog"]], "depth": 4}, "Geyser": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 3}}

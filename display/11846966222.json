@@ -1,1 +1,1 @@
-{"Easter Island": {"crafted_by": [["Glacier", "Statue"], ["Iceland", "Statue"], ["David", "Moai"], ["Karma", "Moai"], ["Narwhal", "Moai"], ["Kali", "Moai"], ["Ouroboros", "Moai"], ["Art", "Moai"], ["Sashimi", "Moai"]], "depth": 4}, "Sushi": {"discovered": false, "emoji": "\ud83c\udf63", "depth": 3}}
+{"Easter Island": {"crafted_by": [["Statue", "Glacier"]], "depth": 4}, "Medicine": {"discovered": false, "emoji": "\ud83d\udc8a", "depth": 4}}

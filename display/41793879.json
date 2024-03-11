@@ -1,1 +1,1 @@
-{"Water Lily": {"crafted_by": [["Lotus", "Rain"]], "depth": 4}, "Ice Cream Sandwich": {"discovered": false, "emoji": "\ud83c\udf68", "depth": 5}}
+{"Water Lily": {"crafted_by": [["Rain", "Lotus"], ["Nymph", "Pond"], ["Pond", "Fairy"]], "depth": 4}, "Scuba Frog": {"discovered": false, "emoji": "\ud83d\udc38", "depth": 4}}

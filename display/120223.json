@@ -1,1 +1,1 @@
-{"Tobacco": {"crafted_by": [["Plant", "Ash"], ["Volcano", "Leaf"], ["Smell", "Pipe"]], "depth": 3}}
+{"Tobacco": {"crafted_by": [["Plant", "Ash"], ["Fire", "Leaf"]], "depth": 3}, "Tourist": {"discovered": false, "emoji": "\ud83c\udfdd\ufe0f", "depth": 4}}

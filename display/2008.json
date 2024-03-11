@@ -1,1 +1,1 @@
-{"Apple": {"crafted_by": [["Seed", "Snake"], ["Seed", "Tree"], ["Snake", "Tree"], ["Mars", "Tree"], ["Smell", "Pie"]], "depth": 4}}
+{"Apple": {"crafted_by": [["Venus", "Tree"], ["Snake", "Tree"], ["Snake", "Seed"], ["Tree", "Seed"], ["Tree", "Mars"]], "depth": 4}, "Snow Plow": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 4}}

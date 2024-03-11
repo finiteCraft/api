@@ -1,1 +1,1 @@
-{"Fireworks": {"crafted_by": [["Dandelion", "Volcano"], ["Dandelion Patch", "Fireworks"], ["Dandelion", "Lightning"], ["River", "Fireworks"], ["Cinder", "Thunder"], ["Kite", "Fire"]], "depth": 3}, "CSI": {"discovered": false, "emoji": "\ud83d\udd0d", "depth": 10}}
+{"Fireworks": {"crafted_by": [["Dandelion", "Volcano"], ["Dandelion", "Lightning"], ["Fireworks", "Fireworks"], ["Fireworks", "River"], ["Fireworks", "Dandelion Patch"], ["Fire", "Kite"], ["Thunder", "Cinder"]], "depth": 3}, "Beacon": {"discovered": false, "emoji": "\ud83d\udd26", "depth": 4}}

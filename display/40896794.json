@@ -1,1 +1,1 @@
-{"Snow White": {"crafted_by": [["Snowstorm", "Nymph"], ["Snowstorm", "Fairy"], ["Snowstorm", "Venus"], ["Nymph", "Snowflake"], ["Nymph", "Snowman"], ["Nymph", "Glacier"], ["Snowflake", "Fairy"]], "depth": 4}, "Venus Flytrap": {"discovered": false, "emoji": "\ud83e\udeb2", "depth": 3}}
+{"Snow White": {"crafted_by": [["Venus", "Snowstorm"]], "depth": 4}, "Statue": {"discovered": false, "emoji": "\ud83d\uddfd", "depth": 3}}

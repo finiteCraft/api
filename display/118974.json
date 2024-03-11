@@ -1,1 +1,1 @@
-{"Tequila": {"crafted_by": [["Cactus", "Wine"], ["Cactus", "Salt"]], "depth": 4}}
+{"Tequila": {"crafted_by": [["Salt", "Cactus"], ["Wine", "Cactus"]], "depth": 4}, "Blizzard": {"discovered": false, "emoji": "\u2744\ufe0f", "depth": 3}}

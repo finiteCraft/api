@@ -1,1 +1,1 @@
-{"Smog": {"crafted_by": [["Fog", "Dust"], ["Nymph", "Smog"], ["Snake", "Fog"], ["Tea", "Smog"], ["Nothing", "Smog"], ["Dragon", "Fog"], ["Fog", "Disaster"], ["Fog", "Brick"], ["Fog", "Cough"], ["Smell", "Snowghost"], ["Smell", "Fog"], ["Smell", "Los Angeles"], ["Smell", "Gasoline"]], "depth": 3}}
+{"Smog": {"crafted_by": [["Dust", "Fog"], ["Cough", "Fog"], ["Smoke", "Mosquito"], ["Smog", "Tea"], ["Smog", "Nothing"], ["Smog", "Nymph"], ["Snake", "Fog"], ["Brick", "Fog"]], "depth": 3}, "Mountain Dewd": {"discovered": false, "emoji": "\ud83c\udf7a", "depth": 4}}

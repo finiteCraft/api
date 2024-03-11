@@ -1,1 +1,1 @@
-{"Stonewall": {"crafted_by": [["Rock", "Tea Party"]], "depth": 4}, "Stoneware": {"crafted_by": [["Rock", "Teacup"], ["Rock", "Teapot"], ["Boulder", "Teacup"], ["Boulder", "Teapot"]], "depth": 4}}
+{"Stoneware": {"crafted_by": [["Teapot", "Boulder"], ["Teapot", "Rock"], ["Boulder", "Teacup"]], "depth": 4}}

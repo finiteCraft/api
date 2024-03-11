@@ -1,1 +1,1 @@
-{"Loch Ness": {"crafted_by": [["Atlantis", "Swamp"]], "depth": 4}, "Brick": {"discovered": false, "emoji": "\ud83e\uddf1", "depth": 4}}
+{"Loch Ness": {"crafted_by": [["Island", "Swamp"], ["Cough", "Lake"], ["Iceland", "Lake"], ["Atlantis", "Swamp"]], "depth": 3}, "Space Ship": {"discovered": false, "emoji": "\ud83d\ude80", "depth": 4}}

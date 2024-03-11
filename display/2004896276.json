@@ -1,1 +1,1 @@
-{"Solar System": {"crafted_by": [["Mars", "Sun"], ["Teapot", "Planet"], ["Teacup", "Planet"], ["Sun", "Planet"], ["Star", "Planet"]], "depth": 4}, "Suck": {"discovered": false, "emoji": "\ud83c\udf46", "depth": 4}}
+{"Solar System": {"crafted_by": [["Star", "Planet"], ["Planet", "Sun"], ["Planet", "Teapot"], ["Planet", "Teacup"], ["Planet", "Train"], ["Sun", "Mars"]], "depth": 4}, "Mead": {"discovered": false, "emoji": "\ud83c\udf6f", "depth": 4}}

@@ -1,1 +1,1 @@
-{"Space Shuttle": {"crafted_by": [["Helicopter", "Rocket"]], "depth": 4}, "Steamroller": {"discovered": false, "emoji": "\ud83d\ude82", "depth": 3}}
+{"Space Shuttle": {"crafted_by": [["Helicopter", "Rocket"], ["Jet", "Rocket"], ["Rocket", "Alligator"]], "depth": 4}, "Steamroller": {"discovered": false, "emoji": "\ud83d\ude82", "depth": 3}}

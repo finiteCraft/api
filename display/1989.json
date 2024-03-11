@@ -1,1 +1,1 @@
-{"Algae": {"crafted_by": [["Kelp", "Seaweed"]], "depth": 4}, "Salmon": {"discovered": false, "emoji": "\ud83d\udc1f", "depth": 4}}
+{"Algae": {"crafted_by": [["Kelp", "Seaweed"], ["Seaweed", "Pond"]], "depth": 4}, "Salmon": {"discovered": false, "emoji": "\ud83d\udc1f", "depth": 4}}

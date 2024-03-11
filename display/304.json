@@ -1,1 +1,1 @@
-{"Frog": {"crafted_by": [["Fish", "Swamp"], ["Swamp", "Dandelion"], ["Salamander", "Green"]], "depth": 4}, "Cactea": {"discovered": false, "emoji": "\ud83c\udf35", "depth": 5}}
+{"Frog": {"crafted_by": [["Dandelion", "Swamp"], ["Prayer", "Pond"], ["Thunder", "Pond"], ["Thunder", "Bog"], ["Marsh", "Fish"], ["Pond", "Stone"], ["Pond", "Lightning"], ["Pond", "Lotus"], ["Pond", "Rock"], ["Pond", "Lily"], ["Fish", "Swamp"], ["Boulder", "Lily"], ["Rocket", "Bog"]], "depth": 3}, "Mountain Dewquake": {"discovered": false, "emoji": "\ud83d\udca6", "depth": 4}}

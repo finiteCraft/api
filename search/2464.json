@@ -1,1 +1,1 @@
-{"Trash": {"crafted_by": [["Smell", "Junk"], ["Smell", "Litter"]], "depth": 5}, "Sword": {"crafted_by": [["Obsidian", "Mist"], ["Obsidian", "Mars"], ["Obsidian", "Sandalwood"], ["Smell", "Blade"], ["Smell", "Excalibur"]], "depth": 4}}
+{"Sword": {"crafted_by": [["Sandalwood", "Obsidian"], ["Obsidian", "Mist"], ["Obsidian", "Mars"]], "depth": 4}, "Toxic": {"crafted_by": [["Smog", "Swamp"]], "depth": 4}}

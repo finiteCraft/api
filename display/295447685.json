@@ -1,1 +1,1 @@
-{"Windsurfing": {"crafted_by": [["Beach", "Windmill"]], "depth": 4}, "Trollface": {"discovered": false, "emoji": "\ud83d\ude1c", "depth": 4}}
+{"Windsurfing": {"crafted_by": [["Beach", "Windmill"], ["Windmill", "Surfboard"], ["Windmill", "Surfing"]], "depth": 4}, "Mountain Tractor": {"discovered": false, "emoji": "\ud83d\ude9c", "depth": 4}}

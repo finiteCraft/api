@@ -1,1 +1,1 @@
-{"Glasses": {"crafted_by": [["Fireworks", "Glass"]], "depth": 4}, "Eraser": {"discovered": false, "emoji": "\ud83d\uddd1\ufe0f", "depth": 4}}
+{"Glasses": {"crafted_by": [["Fireworks", "Glass"], ["Glass", "Whale"]], "depth": 4}, "Matching": {"discovered": false, "emoji": "\ud83d\udc6f", "depth": 4}, "Glasser": {"crafted_by": [["Glass", "Surfer"]], "depth": 4}, "Pond Skater": {"discovered": false, "emoji": "\ud83e\udd97", "depth": 4}}

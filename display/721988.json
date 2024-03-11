@@ -1,1 +1,1 @@
-{"Fireball": {"crafted_by": [["Submarine", "Fire"]], "depth": 4}}
+{"Fireball": {"crafted_by": [["Fire", "Tumbleweed"], ["Fire", "Submarine"], ["Fire", "Ghost"]], "depth": 4}, "Muddy Helicopter": {"discovered": false, "emoji": "\ud83d\ude81", "depth": 4}}

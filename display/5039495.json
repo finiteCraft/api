@@ -1,1 +1,1 @@
-{"Dust Mite": {"crafted_by": [["Dust Devil", "Mosquito"]], "depth": 4}, "Wind": {"discovered": false, "emoji": "\ud83c\udf2c\ufe0f", "depth": 0}}
+{"Dust Mite": {"crafted_by": [["Dust Devil", "Mosquito"], ["Mosquito", "Dust Storm"]], "depth": 4}, "Wind": {"discovered": false, "emoji": "\ud83c\udf2c\ufe0f", "depth": 0}}

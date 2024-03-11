@@ -1,1 +1,1 @@
-{"Lily Pad": {"crafted_by": [["Puddle", "Venus Flytrap"], ["Lake", "Weed"], ["Lily", "Plantea"], ["Lily", "Mudweed"], ["Frog", "Weed"]], "depth": 4}, "Fairy": {"discovered": false, "emoji": "\ud83e\uddda", "depth": 3}}
+{"Lily Pad": {"crafted_by": [["Weed", "Lake"], ["Pond", "Venus Flytrap"], ["Venus Flytrap", "Puddle"], ["Plantea", "Lily"], ["Mudweed", "Lily"]], "depth": 4}, "Snowboarding": {"discovered": false, "emoji": "\ud83c\udfc2", "depth": 4}}

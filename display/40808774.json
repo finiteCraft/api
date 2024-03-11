@@ -1,1 +1,1 @@
-{"Sneezeweed": {"crafted_by": [["Allergy", "Venus Flytrap"], ["Allergy", "Mudweed"]], "depth": 4}, "Leaf": {"discovered": false, "emoji": "\ud83c\udf43", "depth": 3}}
+{"Sneezeweed": {"crafted_by": [["Allergy", "Venus Flytrap"], ["Allergy", "Mudweed"], ["Mudweed", "Hay Fever"]], "depth": 4}, "Mud Bunny": {"discovered": false, "emoji": "\ud83d\udc30", "depth": 4}}

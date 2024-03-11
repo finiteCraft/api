@@ -1,1 +1,1 @@
-{"Altar": {"crafted_by": [["Flower", "Prayer"], ["Boulder", "Prayer"], ["Stone", "Prayer"]], "depth": 4}}
+{"Altar": {"crafted_by": [["Prayer", "Flower"], ["Prayer", "Stone"]], "depth": 4}, "Snowglobe": {"discovered": false, "emoji": "\ud83c\udf28\ufe0f", "depth": 4}}

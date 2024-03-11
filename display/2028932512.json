@@ -1,1 +1,1 @@
-{"Tractor Beam": {"crafted_by": [["Saturn", "Tractor"], ["Fog", "Tractor"], ["Tractor", "Star"], ["Tractor", "Venus"], ["Tractor", "Rocket"], ["Tractor", "Planet"], ["Tractor", "Lighthouse"]], "depth": 4}}
+{"Tractor Beam": {"crafted_by": [["Lighthouse", "Tractor"], ["Star", "Tractor"], ["Planet", "Tractor"], ["Venus", "Tractor"], ["Rocket", "Tractor"]], "depth": 4}, "Land": {"discovered": false, "emoji": "\ud83c\udf04", "depth": 3}}

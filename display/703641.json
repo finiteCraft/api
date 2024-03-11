@@ -1,1 +1,1 @@
-{"Colossus": {"crafted_by": [["Continent", "Statue"]], "depth": 4}, "Tiki Tea": {"discovered": false, "emoji": "\ud83c\udf75", "depth": 5}}
+{"Colossus": {"crafted_by": [["Land", "Statue"], ["Ship", "Statue"], ["Landslide", "Statue"], ["Earthquake", "Statue"], ["Statue", "Brick"], ["Statue", "Continent"], ["Statue", "Boat"], ["Statue", "Titanic"], ["Statue", "Tractor"]], "depth": 4}, "Mirage": {"discovered": false, "emoji": "\ud83c\udf35", "depth": 4}}
