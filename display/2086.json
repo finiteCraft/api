@@ -1,1 +1,1 @@
-{"Drone": {"crafted_by": [["Helicopter", "Kite"]], "depth": 4}, "Mudslide": {"discovered": false, "emoji": "\ud83c\udf0b", "depth": 3}}
+{"Drone": {"crafted_by": [["Battery", "Bird"], ["Battery", "Eagle"], ["Battery", "Airplane"], ["Battery", "Parachute"]], "depth": 5}, "Fish Stick": {"discovered": false, "emoji": "\ud83d\udc1f", "depth": 5}}
